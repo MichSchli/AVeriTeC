@@ -77,7 +77,6 @@ Finally, predict justifications:
 python justification_production/trained_model_justification_generation.py --averitec_file data/dev.verdicts.json > data/dev.verdicts_and_justifications.json
 ```
 
-
 ## Citation
 
 If you used our dataset or code, please cite our paper as:
