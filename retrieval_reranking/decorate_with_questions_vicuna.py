@@ -13,10 +13,10 @@ from accelerate import Accelerator
 
 
 parser = argparse.ArgumentParser(description='Use a prompt to generate questions that could be answered by top-k retrieved evidence. Output generated questions.')
-parser.add_argument('--reference_corpus', default="data/date-cleaned.train.json", help='')
-parser.add_argument('--target_file', default="/rds/user/mss84/hpc-work/datasets/averitec/full_data/date-cleaned.test.json", help='')
-parser.add_argument('--url_file', default="/rds/user/mss84/hpc-work/datasets/averitec/full_data/search_test_vicuna/combined_search_results", help='')
-parser.add_argument('--store_folder', default="/rds/user/mss84/hpc-work/datasets/averitec/full_data/search_test_vicuna/retrieved_docs", help='')
+parser.add_argument('--reference_corpus', default="data/train.json", help='')
+parser.add_argument('--target_file', default="data/dev.json", help='')
+parser.add_argument('--url_file', default="search_results.tsv", help='')
+parser.add_argument('--store_folder', default="store/retrieved_docs", help='')
 parser.add_argument('--top_k', default=100, type=int, help='How many documents should we pick out with BM25')
 parser.add_argument('--start_idx', default=0, type=int, help='Which claim to start at. Useful for larger corpus.')
 parser.add_argument('--n_to_compute', default=-1, type=int, help='How many claims to work through. Useful for larger datasets.')

@@ -22,7 +22,7 @@ from utils import compute_all_pairwise_edit_distances, compute_all_pairwise_mete
 from datasets import ClassLabel
 
 parser = argparse.ArgumentParser(description='Perform veracity prediction using a sequence classifier without any evidence')
-parser.add_argument('--averitec_file', default="/rds/user/mss84/hpc-work/datasets/averitec/full_data/date-cleaned.test.json", help='')
+parser.add_argument('--averitec_file', default="data/dev.json", help='')
 parser.add_argument('--train', action='store_true', help='Marks that training should happen. Otherwise, only inference is executed.')
 parser.add_argument('--gpus', default=1, help='The number of available GPUs')
 args = parser.parse_args()
