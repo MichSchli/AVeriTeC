@@ -83,11 +83,13 @@ If you used our dataset or code, please cite our paper as:
 
 
 ```
-@article{schlichtkrull2023intended,
-      title={AVeriTeC: A Dataset for Real-world Claim Verification with Evidence from the Web}, 
-      author={Michael Schlichtkrull and Zhijiang Guo and Andreas Vlachos},
-      journal={arXiv preprint arXiv:2305.13117},
-      year={2023}
+@inproceedings{
+    schlichtkrull2023averitec,
+    title={{AV}eri{T}e{C}: A Dataset for Real-world Claim Verification with Evidence from the Web},
+    author={Michael Sejr Schlichtkrull and Zhijiang Guo and Andreas Vlachos},
+    booktitle={Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+    year={2023},
+    url={https://openreview.net/forum?id=fKzSz0oyaI}
 }
 ```
 
