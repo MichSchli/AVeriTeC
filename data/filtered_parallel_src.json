@@ -1,0 +1,2472 @@
+[
+    {
+        "questions": [
+            {
+                "question": "What is HR1?",
+                "answers": [
+                    {
+                        "answer": "AN ACT \nTo expand Americans’ access to the ballot box, reduce the \ninfluence of big money in politics, and strengthen ethics \nrules for public servants, and for other purposes. "
+                    }
+                ]
+            },
+            {
+                "question": "Where does the money for HR1 come from?",
+                "answers": [
+                    {
+                        "answer": "The money comes from the Freedom from Influence Fund which is derived from a 2.75% fee on penalty charges relating to criminal and civil fines. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Have European countries given any financial aid to the Ukraine?",
+                "answers": [
+                    {
+                        "answer": "The European Union is the largest donor to Ukraine, and Ukraine is the largest recipient of EU macro-financial assistance to any non-EU country. The European Union has given, on average, over $710 million (€650 million) per year to the country since 2014—almost twice as much as the United States average. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What time period is the claim referring to when it speaks about Nigeria paying off all its foreign debt?",
+                "answers": [
+                    {
+                        "answer": "Former Vice President Atiku Abubakar is talking about the debt at the end of President Olusegun Obasanjo's administration which ended in 2007."
+                    }
+                ]
+            },
+            {
+                "question": "Did the Obasanjo administration leave any foreign debt when they left office in 2007?",
+                "answers": [
+                    {
+                        "answer": "No answer could be found.",
+                        "bool_explanation": "They left 3.65 billion"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What was the medical advice about coronavirus in March 2020?",
+                "answers": [
+                    {
+                        "answer": "A guide for the public was produced by WHO"
+                    }
+                ]
+            },
+            {
+                "question": "Has WHO addressed claims about coronavirus remedies?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "WHO has published myth-busters."
+                    }
+                ]
+            },
+            {
+                "question": "Does the WHO myth-buster address claims about saline solutions?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "There is some limited evidence that regularly rinsing the nose with saline can help people recover more quickly from the common cold. However, regularly rinsing the nose has not been shown to prevent respiratory infections."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Has there been a sexual harassment lawsuit against Adam Schiff involving a 19-year old man?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "There are no House Ethics Committee reports about sexual misconduct from Adam Schiff"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What was the price of petrol in Nigeria in Oct 2020?",
+                "answers": [
+                    {
+                        "answer": "Average price paid by consumers for Automotive Gas Oil (diesel) decreased by -0.99% month-on-month\nand by -3.62% year-on-year to N219.68 in September 2020 from to N221.88 in August 2020.\n"
+                    }
+                ]
+            },
+            {
+                "question": "What was the price of petrol in Saudi Arabia in Oct 2020?",
+                "answers": [
+                    {
+                        "answer": "Gasoline 91’s price was set at 0.67 riyals per liter ($0.18), down 48.9 percent from 1.31 riyals per liter in April 2020\n\nGasoline 95’s price was set at 0.82 riyals per liter ($0.22), down 44.2 percent from 1.47 riyals per liter in April.\n\nDiesel’s price was set at 0.47 riyals per liter, Kerosene was set at 0.64 riyals per liter, and liquified petroleum gas (LPG) was set at 0.75 riyals per liter."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What was US President Donald Trump's executive order regarding guaranteed health coverage protections for those with preexisting conditions?",
+                "answers": [
+                    {
+                        "answer": "President Donald Trump signed an executive order that he claims preserve the Affordable Care Act's popular protections for people with preexisting conditions while his administration supports a case headed to the Supreme Court that could dismantle the health law. "
+                    }
+                ]
+            },
+            {
+                "question": "Would Trump's executive order protect pre-existing conditions?",
+                "answers": [
+                    {
+                        "answer": "The order was largely symbolic and declares it is the policy of the United States for people with preexisting health conditions to be protected, avoiding the thorny details of how to ensure such protections without either leaving the ACA, or Obamacare, in place or crafting new comprehensive legislation."
+                    }
+                ]
+            },
+            {
+                "question": "Did Trump's executive order get any news coverage?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "There were some news stories in the media about the order."
+                    },
+                    {
+                        "answer": "More evidence of news coverage of the order."
+                    },
+                    {
+                        "answer": "NBC news coverage"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "How does the US Congress Assault Weapons Ban of 2013 which followed  the mass shooting in Newtown, Connecticut US describe itself.",
+                "answers": [
+                    {
+                        "answer": "A BILL\nTo regulate assault weapons, to ensure that the right to\nkeep and bear arms is not unlimited, and for other purposes. \nv"
+                    }
+                ]
+            },
+            {
+                "question": "Did Democratic California Sen. Dianne Feinstein have any concerns with an amendment proposed by  Republican Texas Sen. John Cornyn to allow military veterans to be exempt from the ban?",
+                "answers": [
+                    {
+                        "answer": "The problem with expanding this is that, you know, with the advent of PTSD, which I think is a new phenomenon as a product of the Iraq War, it’s not clear how the seller or transferrer of a firearm covered by this bill would verify that an individual was a member, or a veteran, and that there was no impairment of that individual with respect to having a weapon like this...\n...find a way that veterans who are incapacitated for one reason or another mentally, don’t have access to this kind of weapon"
+                    }
+                ]
+            },
+            {
+                "question": "What did Tom Mentzer, Feinstein’s spokesman, say  when asked about the authenticity of the quote?",
+                "answers": [
+                    {
+                        "answer": "Tom Mentzer, Feinstein’s spokesman, told The Associated Press that the quote was false. "
+                    }
+                ]
+            },
+            {
+                "question": "What comment was recorded in resources her Senate website, social media and media outlets?",
+                "answers": [
+                    {
+                        "answer": "Searched For: \"all vets are mentally ill\"\t\nNo results found"
+                    },
+                    {
+                        "answer": "No results for \"\"all vets are mentally ill\" (from:SenFeinstein)\""
+                    },
+                    {
+                        "answer": "Fact check: Senator Dianne Feinstein did not say that all veterans are “mentally ill”"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "\nwhat are the taxes in american counties?",
+                "answers": [
+                    {
+                        "answer": "\"This is a big deal for our state: New Yorkers reported more than $72 billion in deductions for income and property taxes in 2015,\" DiNapoli wrote.\n\nOf that total, income taxes accounted for $51.7 billion and property taxes for $20.9 billion.  \n\nThe Office of Comptroller found that filers who claimed state and local tax deductions had an average deduction of more than $10,000 in 52 of New York’s 62 counties, according to its analysis of county-by-county data from the Internal Revenue Service’s Statistics of Income program from the 2015 tax year."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Did Dustin Diamond die in 2020?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "Dustin Diamond passed away February 1, 2021 in Cape Coral, Florida, USA."
+                    }
+                ]
+            },
+            {
+                "question": "What was the cause of Dustin Diamond's death?",
+                "answers": [
+                    {
+                        "answer": "Stage 4 small cell carcinoma"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Which German TV channels reported on the October 2019 People's Vote march?",
+                "answers": [
+                    {
+                        "answer": "Tagesschau\nn-tv\nDeutsche Welle\nZDF\nWelt"
+                    }
+                ]
+            },
+            {
+                "question": "What did Teagesschau report on the 2019 People's Vote march?",
+                "answers": [
+                    {
+                        "answer": "Hundreds of thousands of people marched to Parliament in London with EU flags and banners."
+                    }
+                ]
+            },
+            {
+                "question": "What did Deutshe Welle report on the 2019 People's Vote march?",
+                "answers": [
+                    {
+                        "answer": "Tens of thousands of protesters on Saturday marched towards the UK Houses of Parliament demanding a new referendum on whether Britain should leave the European Union."
+                    }
+                ]
+            },
+            {
+                "question": "What did Welt report on the 2019 People's Vote march?",
+                "answers": [
+                    {
+                        "answer": "Thousands of Brexit opponents demonstrated in London during the vote in Parliament to remain in the EU. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Does the World Bank's Doing Business Report put South Africa as 82nd coutry out of 190 countries with regards to being able to do business in an efficient way?",
+                "answers": [
+                    {
+                        "answer": "South Africa was ranked 82nd with a score of 66.03 in 2018.\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What is MRC-5?",
+                "answers": [
+                    {
+                        "answer": "Human Cell Strains.\nTwo main human cell strains have been used to develop currently available vaccines, in each case with the original fetal cells in question obtained in the 1960s. The WI-38 cell strain was developed in 1962 in the United States, and the MRC-5 cell strain (also started with fetal lung cells) was developed, using Hayflick's technology, in 1970 at the Medical Research Center in the United Kingdom. "
+                    }
+                ]
+            },
+            {
+                "question": "What vaccines has MRC-5 been used to develop?",
+                "answers": [
+                    {
+                        "answer": "The vaccines below were developed using either the WI-38 or the MRC-5 cell strains.\n\nHepatitis A vaccines [VAQTA/Merck, Havrix/GlaxoSmithKline, and part of Twinrix/GlaxoSmithKline]\nRubella vaccine [MERUVAX II/Merck, part of MMR II/Merck, and ProQuad/Merck]\nVaricella (chickenpox) vaccine [Varivax/Merck, and part of ProQuad/Merck]\nZoster (shingles) vaccine [Zostavax/Merck]\nAdenovirus Type 4 and Type 7 oral vaccine [Barr Labs] *\nRabies vaccine [IMOVAX/Sanofi Pasteur] *"
+                    }
+                ]
+            },
+            {
+                "question": "Is there a Code of Ethics about using human fetal tissue for research?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "Code of Medical Ethics Opinion 7.3.5"
+                    }
+                ]
+            },
+            {
+                "question": "How many vaccines have been developed using human fetus?",
+                "answers": [
+                    {
+                        "answer": "In total only two fetuses, both obtained from abortions done by maternal choice, have given rise to the human cell strains used in vaccine development. Neither abortion was performed for the purpose of vaccine development."
+                    }
+                ]
+            },
+            {
+                "question": "How many authorised vaccines contain MRC-5?",
+                "answers": [
+                    {
+                        "answer": "USA 9"
+                    },
+                    {
+                        "answer": "Canada 14"
+                    },
+                    {
+                        "answer": "Australia 6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Is it true that South Africa had not experienced load shedding carried out by power utilities since August 2015?",
+                "answers": [
+                    {
+                        "answer": "According to a media statement by power utility Eskom, there was load shedding on 14 September 2015. South Africa is again experiencing these rotational power outages as Eskom’s shortage of capacity continues. The utility says there’s a possibility load shedding will remain for the next 18 months."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What does \"sanitation coverage\" mean in Kenya?",
+                "answers": [
+                    {
+                        "answer": "Sewered sanitation coverage refers to the number of people served with flush or pour-flush to\npiped sewer systems, as a percentage of the total population within the service area of the\nutility. It measures the performance of utilities with sewerage systems in delivering sanitation\nservices to consumers. "
+                    }
+                ]
+            },
+            {
+                "question": "What percentage of Kenya's population had sanitation in 2020?",
+                "answers": [
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            },
+            {
+                "question": "What percentage of Kenya's population had sanitation in 2019?",
+                "answers": [
+                    {
+                        "answer": "17%"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Is there an archive available online for all of Donald Trump's tweets?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": " Trump Twitter Archive, a searchable database of Trump’s tweets created by coder Brendan Brown."
+                    }
+                ]
+            },
+            {
+                "question": "According to the claim, when did Donald Trump tweet this?",
+                "answers": [
+                    {
+                        "answer": "November 23, 2009."
+                    }
+                ]
+            },
+            {
+                "question": "By searching the Trump Twitter Archive, did Donald Trump tweet anything on November 23, 2009?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "The only tweets in November were on the 2nd, 16th and 26th."
+                    }
+                ]
+            },
+            {
+                "question": "By searching the Trump Twitter Archive, did Donald Trump tweet the quote in the claim?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "This quote couldn't be found in Trump's Twitter archive."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What is the World Health Organisation?",
+                "answers": [
+                    {
+                        "answer": "The World Health Organisation (WHO) is a specialised agency of the United Nations, established in 1948. The constitution of WHO was signed by 61 countries in 1946, which has increased to a total of 164 countries in 2016."
+                    }
+                ]
+            },
+            {
+                "question": "Has anyone indicated that Covid-19 has become weaker and less lethal at any point?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "An Italian doctor Alberto Zangrillo has suggested that it has become weaker and practically no longer exists in Italy."
+                    }
+                ]
+            },
+            {
+                "question": "Has WHO responded to claims by the Italian doctor?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "They have responded directly regarding the Italian doctors claims in a press conference video and clarified that they do not believe it is less potent or significantly weaker by stating, \n\n\"We need to be exceptionally careful not to create a sense that, all of a sudden, the virus, by its own volition, has now decided to be less pathogenic. It is not the case at all,\" WHO emergencies director Michael Ryan tells a virtual press briefing."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Have Russian mercenaries been engaged in combat in Syria?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "The Russian mercenaries fighting in Syria say they are not in the country for the money or to help Syrian President Bashar al-Assad.\nEarly last month, an unknown number of Russian mercenaries -- some reports say a dozen, others as many as 200 -- were killed by U.S. air strikes during fighting in Syria. The men were hired by a private military contracting firm called ChVK Vagner, which has been sending Russians to fight in Syria since 2015."
+                    }
+                ]
+            },
+            {
+                "question": "Is ChVK Vagner sponsored by Russia?",
+                "answers": [
+                    {
+                        "answer": "Mark Galeotti, a researcher with the Institute of International Relations in Prague, has written extensively on the topic of Wagner and Russia’s use of mercenaries as a potentially deniable asset. According to him, Wagner cannot be considered a legitimate private military company.\n\n“I tend to call Wagner a pseudo-mercenary outfit because it is somewhere in between,” Galeotti told Polygraph.info. “Given that it seems largely bankrolled through Evro Polis [a company owned by Prigozhin], and it has a contract with the Syrian government worth 25% of the output of any gas and oil fields it recovers, there is clearly some truly mercenary aspect, even if much of the time it is working for the Russian command cell in Damascus.”\n\nBut while he acknowledges a possible change in Wagner’s ownership, Galeotti agreed that the organization was undoubtedly tied to the Russian state, at least in the beginning: “I don't think there is any question they were originally a state-sponsored op, is there?”\n\nAnd given the fact that wounded fighters still appear to be receiving treatment at Russian military hospitals, possibly arriving on Russian military transport aircraft, it appears that Russian authorities know far more about Wagner and its activities than they have so far admitted in public."
+                    }
+                ]
+            },
+            {
+                "question": "Have any Russian mercenaries received state medals of the type usually awarded to military personnel?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "According to Fontanka, Troshev (Wagners executive director) was awarded the Hero of Russia honor for assisting in the capture of Palmyra. Bogatov also reportedly won this title. Kuznetsov and Uktin have reportedly won the Order of Courage four times."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What precautions were taken at the funeral of John Lewis because of the pandemic?",
+                "answers": [
+                    {
+                        "answer": "precautions necessary during the pandemic, the church will only accommodate 240 people in total, due to social distancing precautions."
+                    }
+                ]
+            },
+            {
+                "question": "Was the need for social distancing referenced in the service?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "The church’s senior pastor, Raphael Warnock, referred to social distancing at the 39:32 mark of the livestreamed service when he spoke of “these difficult days that have even made grieving more challenging. At a time when we would find comfort in embracing one another, love compels us to socially distance.”"
+                    }
+                ]
+            },
+            {
+                "question": "Are there any images of the funeral service that show social distancing?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "Photo by Alyssa Pointer / POOL / AFP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What were Kenya's ministers asked to step aside in 2015 accused of?",
+                "answers": [
+                    {
+                        "answer": "The ministers have been accused of Corruption. President Uhura Kenyatta, asked officers named in the Confidential Report prepared by the Ethics and Anti - Corruption Commission to step aside to allow the Commission to carry out and complete its investigations."
+                    }
+                ]
+            },
+            {
+                "question": "Who were the ministers?",
+                "answers": [
+                    {
+                        "answer": "President Uhuru Kenyatta Saturday suspended Cabinet Secretaries Kazungu Kambi (Labour), Michael Kamau (Transport), Davis Chirchir (Energy) and Felix Koskei (Agriculture) after being named in EACC report."
+                    }
+                ]
+            },
+            {
+                "question": "Did any of the ministers get charged?",
+                "answers": [
+                    {
+                        "answer": "Charity Ngilu's has been charged with obstructing Ethics and Anti-Corruption Commission officials during the investigations into the land in Karen that was allegedly grabbed by high-profile individuals, including government fficials."
+                    },
+                    {
+                        "answer": "Suspended Kenyan Minister for transport and infrastructure Michael Kamau (R) and former resident engineer in the ministry Nicholas Ndung’u Ng’ang’a (L) stand in the dock at the Milimani Law Courts in the capital Nairobi, June 4, 2015. Kamau was charged on Thursday for abuse of office over a road project that wasted public funds, the first high profile official to appear in court in a campaign against corruption. According to court documents, Ndung’u Ng’ang’a faced similar charges"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What was the investigation into Russian interference in the 2016 U.S presidential campaign called?",
+                "answers": [
+                    {
+                        "answer": "The Mueller Report."
+                    }
+                ]
+            },
+            {
+                "question": "What is the Mueller Report?",
+                "answers": [
+                    {
+                        "answer": "The report is a summation of the findings from the special counsel investigation. It is expected to contain the details of the investigation, from its interviews with key witnesses and other evidence amassed throughout the process and the Mueller team’s conclusions – or lack thereof.\n\nIn a letter to lawmakers, Attorney General William Barr said the report “sets forth the Special Counsel’s findings, analysis and the reasons for his conclusions.” \n\nMueller was appointed in May 2017 shortly after Trump fired Comey. Mueller was authorized to investigate Russian interference in the 2016 election, whether any Trump associates coordinated or colluded with the Russians, whether Trump obstructed the investigation and any other crimes that were uncovered during the investigation."
+                    }
+                ]
+            },
+            {
+                "question": "Did Donald Trump act in good faith when being investigated?",
+                "answers": [
+                    {
+                        "answer": "Trump consistently denied that he or anyone on his team colluded with Russia to interfere in the election, and he has rejected further the intelligence community’s conclusion that Russia attempted to interfere in the election at all, including while standing next to Russian President Vladimir Putin shortly after Mueller’s appointment. He likewise denied the possibility he had obstructed justice.\n\nThroughout the process, Trump railed against Mueller and Mueller’s team, accusing them of political bias and maligning both the intelligence community and Justice Department more broadly. "
+                    }
+                ]
+            },
+            {
+                "question": "What did the Mueller report discover about Donald Trumps role in the Russian interference of the 2016 U.S presidential campaign?",
+                "answers": [
+                    {
+                        "answer": "Our investigation found multiple acts by the President that were capable of exerting undue influence over law enforcement investigations, including the Russian-interference and obstruction investigations,” Mueller wrote. “The incidents were often carried out through one-on-one meetings in which the President sought to use his official power outside of usual channels. These actions ranged from efforts to remove the Special Counsel and to reverse the effect of the Attorney General’s recusal; to the attempted use of official power to limit the scope of the investigation; to direct and indirect contacts with witnesses with the potential to influence their testimony."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "How much was Spain's national debt in 2019?",
+                "answers": [
+                    {
+                        "answer": "In 2019 Spain public debt was 1,369,666 million dollars, has increased 58,592 million since 2018."
+                    }
+                ]
+            },
+            {
+                "question": "Has Spain asked the UK for money to help cover their national debt?",
+                "answers": [
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Has the US had any intelligence that Russia is offering bounties for the killing of US troops in Afghanistan?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "Leading Republican lawmakers on Monday confirmed that U.S. intelligence agencies have developed information about a Russian military operation targeting U.S. and allied forces in Afghanistan. But they said that any U.S. response should wait until intelligence agencies fully review the material, some of which was shared with members of Congress in a classified briefing at the White House.\nCurrent and former intelligence officials familiar with the intelligence said it was less ambiguous than White House officials and some lawmakers have portrayed and indicated that Russian military intelligence had offered bounties to Taliban-linked militants who killed U.S. military personnel."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Who is Bill  Murray?",
+                "answers": [
+                    {
+                        "answer": "Actor William James Murray is a comedy icon best known for his popular 'Saturday Night Live' characters and movie classics such as 'Meatballs,' 'Caddyshack' and 'Ghostbusters.' He was nominated for an Oscar for his seriocomic role in 'Lost in Translation.'"
+                    }
+                ]
+            },
+            {
+                "question": "What date was it when Bill  Murray was claimed to have died?",
+                "answers": [
+                    {
+                        "answer": "February 02, 2019 was listed as Murray's death."
+                    }
+                ]
+            },
+            {
+                "question": "Where was the information published?",
+                "answers": [
+                    {
+                        "answer": "In Conservative Tears:\nWilliam Billington “Bill” Murray is dead this evening in his home in Winnetka, Wisconsin. "
+                    }
+                ]
+            },
+            {
+                "question": "How does Conservative Tears describe its website content?",
+                "answers": [
+                    {
+                        "answer": "Everything on this website is fiction. It is not a lie and it is not fake news because it is not real. If you believe that it is real, you should have your head examined. Any similarities between this site’s pure fantasy and actual people, places, and events are purely coincidental and all images should be considered altered and satirical."
+                    }
+                ]
+            },
+            {
+                "question": "Where was Bill James  Murray videoed on February 10, 2019?",
+                "answers": [
+                    {
+                        "answer": "Murray was photographed playing golf on a PGA Tour."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Did LeBron James say \" I don't want nothing to do with white people. I don't believe that they want anything to do with me. I don't want no, It's me and my boys\"",
+                "answers": [
+                    {
+                        "answer": "Yes, but it was taken out of context."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What is bitter gourd?",
+                "answers": [
+                    {
+                        "answer": "Momordica charantia (commonly called bitter melon; bitter apple; bitter gourd; bitter squash; balsam-pear; with many more names listed below)[1] is a tropical and subtropical vine of the family Cucurbitaceae, widely grown in Asia, Africa, and the Caribbean for its edible fruit. Its many varieties differ substantially in the shape and bitterness of the fruit."
+                    }
+                ]
+            },
+            {
+                "question": "What are the health risks of eating bitter gourd after eating lady fingers?",
+                "answers": [
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            },
+            {
+                "question": "What are the health risks of eating radishes after eating lady fingers?",
+                "answers": [
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Where was this claim published?",
+                "answers": [
+                    {
+                        "answer": "bustaroll.org"
+                    }
+                ]
+            },
+            {
+                "question": "What is bustaroll?",
+                "answers": [
+                    {
+                        "answer": "The site is no longer online but it was a satire website."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What plan does this claim refer to?",
+                "answers": [
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            },
+            {
+                "question": "What is Cornyn's stance on healthcare for those with pre-existing conditions in the US?",
+                "answers": [
+                    {
+                        "answer": "He supports a plan that protects those with preexisting conditions"
+                    }
+                ]
+            },
+            {
+                "question": "Has Cornyn submitted a bill to protect those with pre-existing conditions?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "His bill is about affordable prescriptions."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What's the average alcohol consumption per person in South Africa?",
+                "answers": [
+                    {
+                        "answer": "7.1 litres"
+                    }
+                ]
+            },
+            {
+                "question": "What's the average alcohol consumption per person in Nigeria?",
+                "answers": [
+                    {
+                        "answer": "9.6 litres"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "When did Nigeria become independent?",
+                "answers": [
+                    {
+                        "answer": "1st October 1960"
+                    }
+                ]
+            },
+            {
+                "question": "What was Nigeria's urban population at the time of it's independence?",
+                "answers": [
+                    {
+                        "answer": "6.96 million"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "When was 5G launched?",
+                "answers": [
+                    {
+                        "answer": "14 May 2018 Qatar\nOoredoo CEO Launches 5G at Ceremony in West Bay\n\nDoha, Qatar\n\nOoredoo has today announced that the company is the first operator in the world to launch a live 5G network on the 3.5GHz spectrum band.\n\nThe breakthrough announcement was made in an event attended by Ooredoo senior management at the Ooredoo Tower in West Bay. Attendees were also briefed on the first Ooredoo 5G site which was accomplished just days after Ooredoo’s new 5G Commercial Core Network was activated.\n\nOoredoo’s 5G network is the first commercially available 5G network in the world and is an important technological breakthrough for the telecommunications industry worldwide."
+                    }
+                ]
+            },
+            {
+                "question": "Was 5G available worldwide in 2020?",
+                "answers": [
+                    {
+                        "answer": "It was only commercially available in 33 countries."
+                    }
+                ]
+            },
+            {
+                "question": "How many countries had been affected by Covid-19 in 2020?",
+                "answers": [
+                    {
+                        "answer": "Much more than 33."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Does Japan import goods from the USA?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "In 2018 US exports to Japan were USD 75,149.3 million."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What happened in Kenosha, Wisconsin in August 2020?",
+                "answers": [
+                    {
+                        "answer": "25th/26th August 2020\nTwo people were killed and a third was injured in a shooting Tuesday night during protests in Kenosha, the city's Police Department confirmed early Wednesday. It was the third night of protests over the police shooting of Jacob Blake."
+                    }
+                ]
+            },
+            {
+                "question": "Did Joe Biden speak out about what was happening in Kenosha?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "26/08/2020\nOnce again, a Black man — Jacob Blake — was shot by the police. In front of his children. It makes me sick.\n\nIs this the country we want to be?\n\nNeedless violence won’t heal us. We need to end the violence — and peacefully come together to demand justice."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Has Invermectin been approved as a treatment for Covid-19?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "The current evidence on the use of ivermectin to treat COVID-19 patients is inconclusive. Until more data is available, WHO recommends that the drug only be used within clinical trials."
+                    }
+                ]
+            },
+            {
+                "question": "Has Hydroxychloroquine been approved as a treatment for Covid-19?\n\n",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "Strong recommendation against the use of hydroxychloroquine or chloroquine for treatment of COVID-19 of any severity"
+                    },
+                    {
+                        "answer": "15 June 2020\nToday, the U.S. Food and Drug Administration (FDA) revoked the emergency use authorization (EUA) that allowed for chloroquine phosphate and hydroxychloroquine sulfate donated to the Strategic National Stockpile to be used to treat certain hospitalized patients with COVID-19 when a clinical trial was unavailable, or participation in a clinical trial was not feasible."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "How many people were reported to have scanned tickets to Trump's June 20 rally?",
+                "answers": [
+                    {
+                        "answer": "Just fewer than 6,200 people attended President Donald Trump’s rally in Tulsa, Oklahoma, the Tulsa Fire Department said Sunday"
+                    }
+                ]
+            },
+            {
+                "question": "What was Trump campaign communications director Tim Murtaugh's comment on these statistics?",
+                "answers": [
+                    {
+                        "answer": "Trump campaign communications director Tim Murtaugh disputed the department’s count Sunday, saying, “12,000 people went through the metal detectors so that number is way off.” "
+                    }
+                ]
+            },
+            {
+                "question": "What did the media report about the attendance at the rally?",
+                "answers": [
+                    {
+                        "answer": "While the Trump re-election effort boasted that it would fill BOK Center, which seats more than 19,000 people, only 6,200 supporters ultimately occupied the general admission sections, the Tulsa fire marshal told NBC News."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What is the Mahashivratri celebration?",
+                "answers": [
+                    {
+                        "answer": "Maha Shivaratri (IAST: Mahāśivarātri) is a Hindu festival celebrated annually in honour of the god Shiva. The name also refers to the night when Shiva performs the heavenly dance called Tandava."
+                    }
+                ]
+            },
+            {
+                "question": "Is there an annual Maha Shivratri (Mahāśivarātri) festival in Karachi?",
+                "answers": [
+                    {
+                        "answer": "This annual festival in honor of Lord Shiva's marriage to Parvati Devi is still celebrated by the Hindu community in Clifton, near the beach in Karachi. Men and women both fast, wash the icon of Lord Shiva in holy water, and then proceed to the ocean during the pooja where they can break the fast in the early morning. The 2019 festival is scheduled for March 4th. Hindus celebrate Maha Shivratri festival in Karachi - Paper Jewels 2018-22"
+                    }
+                ]
+            },
+            {
+                "question": "Was the Mahashivratri celebrated in Karachi in 2020?",
+                "answers": [
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Who do the media report is the lawyer of Shamima Begum?",
+                "answers": [
+                    {
+                        "answer": "RICHARD Madeley got into a heated clash with the lawyer representing Shamima Begum’s family, Tasnime Akunjee...\n\n Feb 18, 2019"
+                    },
+                    {
+                        "answer": "The human rights lawyer representing Shamima Begum and Julian Assange is one of the country’s leading names in her field, and comes from Cheltenham.\n\nGareth Peirce, once described as the one of the country's top human rights lawyers, has taken on the case of the teenage girl who went to Syria to join Isis but now wants to return to the UK.\n\nShe took on the case last week, the Daily Mail is reporting.\n17 APR 2019\n"
+                    }
+                ]
+            },
+            {
+                "question": "What links can be found between Cherie Blair and Shamima Begum on the internet?",
+                "answers": [
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "How did the Obama administration save the jobs of autoworkers according to  the claim?",
+                "answers": [
+                    {
+                        "answer": "The federal bailout of General Motors Co, Chrysler and parts suppliers in 2009 saved 1.5 million U.S. jobs and preserved $105.3 billion in personal and social insurance tax collections, according to a study released on Monday.\n\nThe Bush and Obama administrations loaned the auto industry, including GM and Chrysler, which is now controlled by Italy’s Fiat, $80 billion to avoid the collapse of the industry that they felt would result in the loss of millions of U.S. jobs."
+                    }
+                ]
+            },
+            {
+                "question": "What does experts and the public think about the effect of this bail-out on saving Auto jobs in the US?",
+                "answers": [
+                    {
+                        "answer": "The Center for Automotive Research (CAR) in Ann Arbor, Michigan, estimated in its study that the bailout saved a lot of jobs, even crediting for a rebound of the industry in 2010 after the initial fallout."
+                    },
+                    {
+                        "answer": "A recent Harris Poll shows 45% of Americans believe the government's rescue of GM (GM) and Chrysler \"helped\" the U.S. economy.\n\nWith the benefit of hindsight, Ford CEO Alan Mulally says the bailouts were the right thing for the industry and ultimately benefited Ford (F) too, even though his firm didn't take government assistance."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "In the 2016 US presidential elections, how many votes were cast before Election Day?",
+                "answers": [
+                    {
+                        "answer": "In 2016, more than 41 percent of all ballots were cast before Election Day."
+                    }
+                ]
+            },
+            {
+                "question": "How many people had voted by early October 2020, compared to 2016?",
+                "answers": [
+                    {
+                        "answer": "According to Michael McDonald, a University of Florida professor who tracks early voting statistics:\n\nEarly Voting Continues at Record Pace with 3.3 million voted\n\nThe headline continues to be the unprecedented 3.3 million people who have already voted. At a similar point in time before the 2016 election, I was tracking only 74,836 people who voted."
+                    }
+                ]
+            },
+            {
+                "question": "What was Prof. McDonald's total estimated number of voters in the 2020 general election?",
+                "answers": [
+                    {
+                        "answer": "There is thus nothing in these data to change my preliminary estimate of 150 million voters in the 2020 general election. "
+                    }
+                ]
+            },
+            {
+                "question": "What percentage of voters then, had submitted their vote by early October, 2020?\n\n",
+                "answers": [
+                    {
+                        "answer": "3.3 million of 150 million is 2.2 %."
+                    }
+                ]
+            },
+            {
+                "question": "How many people actually voted in the US 2020 general election?",
+                "answers": [
+                    {
+                        "answer": "Approximately 240 million people were eligible to vote in the 2020 presidential election and roughly 66.1% of them submitted ballots, totalling about 158 million."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What was the date of the claim made?",
+                "answers": [
+                    {
+                        "answer": "11/03/2020 - March 3rd 2020."
+                    }
+                ]
+            },
+            {
+                "question": "Did Tom Hanks suffer with Covid?",
+                "answers": [
+                    {
+                        "answer": "Yes, around the time of the claim in March 2020 Tom Hanks and wife Rita Wilson tested positive for coronavirus (COVID-19). The actor announced both he and his wife both fell ill while traveling in Australia and were tested for the virus, with results returning positive for COVID-19."
+                    }
+                ]
+            },
+            {
+                "question": "Is Tom Hanks still alive?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "Plenty of evidence exists to proove Tom Hanks is still alive after the date the original claim was made.\n\nOn April 11 2020, Hanks, hosted a special remote episode of \"Saturday Night Live.\"\n\nAnd in January 2021, Hanks, now 64, hosted an evening celebration of President Joe Biden’s inauguration. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "How much electricity does Eskom supply to Africa each year?",
+                "answers": [
+                    {
+                        "answer": "In the year 2018-2019 Eksom sold 208,319 GWh of electricity."
+                    }
+                ]
+            },
+            {
+                "question": "How much electricity is used in Africa each year?",
+                "answers": [
+                    {
+                        "answer": "Africa Energy Outlook 2019 puts electricity demand in Africa at 700,000 GWh. "
+                    }
+                ]
+            },
+            {
+                "question": "Is 208,319 45% of 700,000?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "208,319 / (700,000 / 100) = 29.76%"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "How much does Medicare reimburse hospitals?",
+                "answers": [
+                    {
+                        "answer": "Big hospital systems haggle constantly with Medicare over what they are paid, and often battle the government over charges of overbilling. On average, the government program pays hospitals about 87 cents for every dollar of their costs, compared with private insurers that pay $1.45.\n\n"
+                    }
+                ]
+            },
+            {
+                "question": "How much would Medicare for All reimburse hospitals?",
+                "answers": [
+                    {
+                        "answer": "But those in favor of the most far-reaching changes, including Senator Bernie Sanders, who unveiled his latest Medicare for all plan as part of his presidential campaign, have remained largely silent on the question of how the nation’s 5,300 hospitals would be paid for patient care"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What was the capital expenditure component of Nigeria's spending in 2016?",
+                "answers": [
+                    {
+                        "answer": "The capital expenditure component of the spending in 2016 was only N173bn of the projected N1.58tn. However, some of the capital expenses were carried into the new fiscal year 2017 in line with the clause attached to the Appropriation act."
+                    }
+                ]
+            },
+            {
+                "question": "What was the capital expenditure component of Nigeria's spending in 2017?",
+                "answers": [
+                    {
+                        "answer": "the Minister of Power, Works and Housing (PWH), Babatunde Raji Fashola suggest that his ministry did not complete any capital project in 2017, despite receiving the largest capital expenditure allocation across all parastatals. \n\nDespite the Ministry's reports, the Debt Management Office (DMO) stated that it released ₦1.2 trillion to finance capital projects in 2017. Given the size of Mr Fashola's ministry, it is improbable that they received none of these funds. The implication is that the Ministry received these funds too late in the year to execute for that calendar year.\n\nThat is highly plausible. Afterall, in December 2017, the Minister of Finance announced the Ministry released ₦750 billion for capital projects. These projects effectively become 2018 projects."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "According to the media, how many jobs were lost in China as a result of the US-China trade war?",
+                "answers": [
+                    {
+                        "answer": "On 29 July 2019, South China Morning Post reported that:\nUS trade war has cost China ‘almost 2 million industrial jobs’, investment bank CICC says"
+                    },
+                    {
+                        "answer": "According to the BBC:\nThere is no official Chinese data specifically on job losses as a result of the US-China trade war, but economic surveys carried out by two Chinese banks suggest a range of 1.2 to 1.9 million jobs were impacted by the trade war in the industrial sector."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Has Britain imported COVID-19 testing kits that are contaminated with coronavirus?",
+                "answers": [
+                    {
+                        "answer": "No, there was a delay to imports after traces of the virus were detected in parts due for delivery in the coming days, but these were not imported."
+                    }
+                ]
+            },
+            {
+                "question": "Did these components come from China?",
+                "answers": [
+                    {
+                        "answer": "There is no information regarding the source of the contaminated components."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Were there differences in the number of machines Republicans and Democrats had to vote on?",
+                "answers": [
+                    {
+                        "answer": "In some areas the number and set up machines caused delays. Every county was different.  \n\nTravis and some other counties set up their machines to handle voters in either primary. But in Tarrant County, the two parties decided “over our strong objections” to devote machines to one primary or the other, but not both, said Tarrant County Judge Glen Whitley.\n\n\"We told them exactly what was going to happen and they still said they wanted it that way and what happened, happened,\" he said.\n\nThe county assigned 1,767 machines to the Republican primary and 1,015 to Democrats, with input from the county parties.\n\nHarris County also had dedicated machines, and Tamez-Robledo said it was frustrating to see Republicans come and go without delay as she continued to wait."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "At the time of the claim, how much had the Australian Red Cross distributed to victims of bushfires?",
+                "answers": [
+                    {
+                        "answer": "By Thursday, (January 24th 2020) the organisation said of the $115m it has raised since July, $30m had been allocated for immediate assistance, $18m would go to a three-year bushfire recovery program and $1m had been set aside for a bereavement allowance. It has already issued 690 grants, totalling $6.9m so far."
+                    }
+                ]
+            },
+            {
+                "question": "What was the data for February?",
+                "answers": [
+                    {
+                        "answer": "These grants more than double existing immediate financial assistance, with the Red Cross Bushfire Advisory Panel allocating a further $30.5 million, with a new total of $61.5 million now available for immediate cash relief. Currently, around $1 million a day is being distributed to people impacted by the fires."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Was Bernie Sanders arrested in 1963 at a black civil rights protest?",
+                "answers": [
+                    {
+                        "answer": "A Chicago Tribune archival photo of a young man being arrested in 1963 at a South Side protest shows Democratic presidential hopeful Bernie Sanders, his campaign has confirmed, bolstering the candidate’s narrative about his civil rights activism.\n\nThe black-and-white photo shows a 21-year-old Sanders, then a University of Chicago student, being taken by Chicago police toward a police wagon. ",
+                        "bool_explanation": "A Chicago Tribune archival photo of a young man being arrested in 1963 at a South Side protest shows Democratic presidential hopeful Bernie Sanders, his campaign has confirmed, bolstering the candidate’s narrative about his civil rights activism.\n\nThe black-and-white photo shows a 21-year-old Sanders, then a University of Chicago student, being taken by Chicago police toward a police wagon. "
+                    }
+                ]
+            },
+            {
+                "question": "At the time, what was Sanders's position on civil rights?",
+                "answers": [
+                    {
+                        "answer": "Sanders enrolled at the University of Chicago on Oct. 3, 1960, and graduated in June 1964 with a bachelor of arts degree in political science, said Jeremy Manier, a university spokesman.\n\nAt the University of Chicago, he was a leader of the Congress of Racial Equality, a major civil rights group. News accounts from the time had Sanders leading protests over racial inequality."
+                    }
+                ]
+            },
+            {
+                "question": "Was Sanders supporting the protest?",
+                "answers": [
+                    {
+                        "answer": "A January 1964 Tribune story on the court cases of those who had been arrested in August identified a Bernard Sanders. The negatives were scanned and an image was shown to the Sanders campaign Friday. On Saturday, the campaign confirmed that a second photo also shows Sanders.\n\nIn the early 1960s, protests over segregation in the Englewood area raged over mobile classrooms dubbed \"Willis Wagons,\" named for then-Chicago Schools Superintendent Benjamin Willis. Critics charged that the trailers kept black children in the area instead of sending them to white schools.\n\nSanders was arrested Aug. 12, 1963, and charged with resisting arrest. He was found guilty and fined $25, according to a Tribune story about the protests."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What is the law referred to in the claim?",
+                "answers": [
+                    {
+                        "answer": "The Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region"
+                    }
+                ]
+            },
+            {
+                "question": "When was this law enacted?",
+                "answers": [
+                    {
+                        "answer": "30/06/2020"
+                    }
+                ]
+            },
+            {
+                "question": "When was this law first violated?",
+                "answers": [
+                    {
+                        "answer": "01/07/2020\nA man was arrested for holding a #HKIndependence flag in #CausewayBay, Hong Kong, violating the #NationalSecurityLaw.  This is the first arrest made since the law has come into force."
+                    }
+                ]
+            },
+            {
+                "question": "How many arrests were made under this law on 01/07/2020?",
+                "answers": [
+                    {
+                        "answer": "More than 300 people have been arrested in #HongKong so far for offences like unlawful assemblies, disorderly conduct in public places, furious driving, and breach of the #NationalSecurityLaw, which accounted for 9 arrests (5 males & 4 females)."
+                    }
+                ]
+            },
+            {
+                "question": "What measures can the HK Police take to implement the law?",
+                "answers": [
+                    {
+                        "answer": "According to the rules, police may be authorized to conduct searches for evidence without a warrant in “exceptional circumstances.” Police may also apply for a warrant that requires a person suspected of violating the national security law to surrender their travel documents, thus restricting them from leaving Hong Kong."
+                    },
+                    {
+                        "answer": "Additionally, under the rules, written notices or restraining orders may be issued to freeze or confiscate property if there are “reasonable grounds” to suspect that the property is related to an offense endangering national security.\n\nPlatforms and publishers, as well as internet service providers, may also be ordered to take down electronic messages published that are “likely to constitute an offence endangering national security or is likely to cause the occurrence of an offence endangering national security.”\n\nService providers who do not comply with such requests could face fines of up to 100,000 Hong Kong dollars ($12,903) and receive jail terms of six months.\n\nIndividuals who post such messages may also be asked to remove the message, or face similar fines and a jail term of one year."
+                    }
+                ]
+            },
+            {
+                "question": "Did any western countries react to the passing of this law?",
+                "answers": [
+                    {
+                        "answer": "The US Congress has approved a bill rebuking China over its crackdown in Hong Kong amid protests against a strict “national security” law that outlaws so-called subversive or terrorist acts, as well as collusion with foreign forces intervening in the city’s affairs"
+                    }
+                ]
+            },
+            {
+                "question": "Does the law contravene the right to freedom of speech?",
+                "answers": [
+                    {
+                        "answer": "A Government spokesman made the following solemn statement today (July 2): The slogan \"Liberate Hong Kong, the revolution of our times\" nowadays connotes \"Hong Kong independence\", or separating the Hong Kong Special Administrative Region (HKSAR) from the People's Republic of China, altering the legal status of the HKSAR, or subverting the State power.\n\n     The spokesman stated that the HKSAR Government strongly condemns any acts which challenge the sovereignty, unification and territorial integrity of the People's Republic of China. The Law of the People's Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region prohibits secession, subversion of state power and other acts and activities which endanger national security. The HKSAR Government calls upon members of the public not to defy the law."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "How many people arrested by ICE have had previous criminal convictions in 2017 and 2018?",
+                "answers": [
+                    {
+                        "answer": "While ICE arrests overall rose from 2016 to 2017, arrests for those without prior convictions drove the increase. The number of arrestees without known convictions increased 146% (up more than 22,000 arrests), compared with a 12% rise among those with past criminal convictions (up nearly 11,000). Still, the bulk of those arrested in 2016 and 2017 had prior convictions."
+                    }
+                ]
+            },
+            {
+                "question": "What were the previous convictions for?",
+                "answers": [
+                    {
+                        "answer": "Among ICE arrestees in 2017 with prior convictions, the most common criminal conviction category was driving under the influence of alcohol (59,985 convictions, or 16% of the total), followed by possessing or selling “dangerous drugs” such as opioids (57,438, or 15%). Immigration offenses, which include illegal entry or false claim to U.S. citizenship, were the third-most common crime type (52,128 convictions, or 14%)."
+                    }
+                ]
+            },
+            {
+                "question": "How many people did ICE arrest in 2017 with a criminal conviction?",
+                "answers": [
+                    {
+                        "answer": "An administrative arrest of a criminal alien is the arrest of an alien with a known criminal conviction. ICE remains committed to targeting such aliens for arrest and removal. ERO arrested 105,736 criminal aliens in FY2017, resulting in a 12 percent (10,985) increase over FY2016,"
+                    },
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Did the 2020 fiscal year budget for the US decrease funding for health care?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "The 2020 Budget requests $87.1 billion for HHS (Health and Human services), a 12-percent decrease from the 2019 estimated level. "
+                    }
+                ]
+            },
+            {
+                "question": "Is there a link between decrease in health care investments and the increase in tax cuts for billionaires?",
+                "answers": [
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            },
+            {
+                "question": "Does Trump's fiscal year 2020 budget slashes investments in healthcare to pay for tax cuts to billionaires ?",
+                "answers": [
+                    {
+                        "answer": "There’s some truth to Castro’s about health care reductions, since Trump’s proposal decreases the health department’s budget. The plan calls for a restructuring of Medicaid that would likely lead to reduced coverage and benefits. The budget also reduces future Medicare spending, but that mainly affects health care providers, not beneficiaries.\n\nIt’s misleading to say that the health care changes pay for tax cuts to billionaires, because there isn’t a direct link between them. It’s also worth noting that while in the long-run the tax cuts remain in place for higher earning individuals, every income group on average is expected to pay less in taxes in 2019 because of the tax law.\n\nCastro’s statement is partially accurate. We rate it Half True."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What proportion of unemployed Americans receive benefits that exceed their lost earnings?",
+                "answers": [
+                    {
+                        "answer": "68%"
+                    }
+                ]
+            },
+            {
+                "question": "What are unemployed individuals earning that means they are earning more out of work than they would be in work?",
+                "answers": [
+                    {
+                        "answer": "The Coronavirus Aid, Relief, and Economic Security Act (CARES) Act substantially expanded Unemploy-\nment Insurance (UI) in order to help workers losing jobs as a result of the Covid-19 pandemic. One provision\nof the Act creates an additional $600 weekly benefit known as the Federal Pandemic Unemployment Com-\npensation (FPUC). The size of the payment—$600—was designed to replace 100 percent of the mean U.S.\nwage when combined with mean state UI benefits."
+                    }
+                ]
+            },
+            {
+                "question": "What is the ratio between the unemployment benefits to mean pre-tax wages?",
+                "answers": [
+                    {
+                        "answer": "As designed, the ratio of mean unemployment benefits to mean pre-tax wages under CARES is roughly\n100%. However, this masks substantial heterogeneity. We find that 76% of unemployed workers have a\nstatutory replacement rate above 100%.\n"
+                    }
+                ]
+            },
+            {
+                "question": "Does this mean that some unemployed are earning more than they would be whilst in work?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "That means that three in four unemployed workers are eligible for\nbenefits which exceed their lost wages. The median statutory replacement rate is 145%. 69% of unemployed\nworkers have comprehensive replacement rates above 100% and so qualify for unemployment benefits which\nexceed total post-payroll tax wages and non-wage compensation. The median comprehensive replacement\nrate is 134%"
+                    }
+                ]
+            },
+            {
+                "question": "Why are some unemployed people now earning more than when they were in work?",
+                "answers": [
+                    {
+                        "answer": "These conclusions arise because the CARES Act sends a fixed $600 supplement to unemployed workers\nwho have very different pre-job loss earnings: $600 is a larger percentage of pre-job loss earnings for low\nthan for high earners. The CARES Act implemented a fixed supplement to all workers in part because it\nwas viewed as infeasible to implement policies which depended on individual earnings. Since the $600 UI\nsupplement was targeted to generate 100% earnings replacement based on mean earnings, this $600 sup-\nplement tends to imply greater than 100% earnings replacement for those with less than mean earnings.\nFurthermore, these high replacement rates for below-mean workers are amplified by the fact that the dis-\ntribution of earnings is skewed: median earnings are less than mean earnings. This means that the typical\nunemployed worker has below-mean prior earnings and thus above-mean replacement rates. This implies\nthat most workers have replacement rates above 100%."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Is Immunization compulsory in Canada?",
+                "answers": [
+                    {
+                        "answer": "Vaccination in Canada is only mandatory for students in Ontario and in the Atlantic province of New Brunswick. Nationwide, it is highly recommended."
+                    }
+                ]
+            },
+            {
+                "question": "Are there any circumstances where exemptions of mandatory vaccinations in those provinces for students are made?",
+                "answers": [
+                    {
+                        "answer": "While vaccination is generally required to attend school in Ontario and New Brunswick, there are exemptions given to those who are opposed."
+                    },
+                    {
+                        "answer": "As might be expected in Canada, vaccination policies are as diverse as the geogra-high immunization rates by educating their populations about the benefits of vaccines. Just three have legislated vaccination policies, applying strictly to children about to enrol in school. Ontario and New Brunswick require immunization for diphtheria, tetanus, polio, measles, mumps, and rubella immunization, while Manitoba requires a measles vaccination.\n\nIn each case, though, the legislation includes an exemption clause. Essentially, each of the three provinces allows parents to request that their child be exempted from the vaccination requirement on medical or religious grounds, or simply out of conscience. In such instances, in the event of a disease outbreak, unvaccinated children can be excluded from entering a school."
+                    }
+                ]
+            },
+            {
+                "question": "Other than the students in Ontario and New Brunswick are the greater population of Canada subject to mandatory immunization?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "Vaccination in Canada is voluntary."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What did the Assam government decide regarding educational admission fees at the time of the claim?",
+                "answers": [
+                    {
+                        "answer": "Admission to universities, colleges and higher secondary schools in Assam will be free during the current academic year to ensure there is no additional burden on parents already affected by the coronavirus lockdown, Education Minister Himanta Biswa Sarma said on Sunday. He said there will be no hidden costs.\n\n“Students from the higher secondary to the postgraduate level, including medical, engineering and polytechnic students, will be admitted to institutes for free,” Sarma told reporters, a day after results for Class 10 state board examinations were announced only on online platforms.\n\nThe prospectus and admission forms will be free and available online."
+                    }
+                ]
+            },
+            {
+                "question": "What did the Education Minister Himanta Biswa Sarma publish on his twitter account regarding this claim?",
+                "answers": [
+                    {
+                        "answer": "#AssamEduCare Extremely pleased to share GOA has made ALL admissions - from HS upto PG level including medical, engineering, polytechnic for academic year 2020-21 - absolutely free. Under stress due to #COVID19, this shall be big relief to families. All prospectus will be free."
+                    }
+                ]
+            },
+            {
+                "question": "What was the The Education Minister of Assam, Himanta Biswa Sarma quoted as saying on June 7, 2020 in the Barack Bulletin.\n",
+                "answers": [
+                    {
+                        "answer": "\"No colleges are allowed to charge any student for anything. No Saraswati Puja charges, no excursion fees, no prospectus fees. If any colleges are found charging students for anything during the admission, strict actions will be taken against them,\" informed Sarma.\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Did German TV say that there were 2.2 million people at the march for Anti Brexit 2019 ?",
+                "answers": [
+                    {
+                        "answer": "We’ve seen no evidence any German TV station said this. All the reporting we’ve seen from German TV and other news media outlets put the number in the tens or hundreds of thousands in Anti Brexit People's Vote March in London."
+                    }
+                ]
+            },
+            {
+                "question": "Did Sky News report that two million people attended the event?",
+                "answers": [
+                    {
+                        "answer": "No. Sky News reported that \"Hundreds of thousands\" of people from across the UK marched through central London to demand a public vote on Boris Johnson's Brexit deal."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Are the grounds of the Michael Davitt GAC, in Swatragh, County Londonderry, being used as a coronavirus field hospital?",
+                "answers": [
+                    {
+                        "answer": "No contact has yet been made with relevant authorities with regards to any proposals."
+                    }
+                ]
+            },
+            {
+                "question": "Are the grounds likely to be used for this purpose in the future?",
+                "answers": [
+                    {
+                        "answer": "The Club has not ruled out the potential use of the grounds in such a way, and that a consultation is ongoing with the local community and relevant Health Authorities, to establish how it may support the NHS during the COVID-19 crisis."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What did Pritanka Ganshi tweet about her great-grandfather?",
+                "answers": [
+                    {
+                        "answer": "My favourite story about my great-grandfather is the one about when as PM, he returned from work at 3 am to find his bodyguard exhausted and asleep on his bed. He covered him with a blanket and slept on an adjacent chair."
+                    }
+                ]
+            },
+            {
+                "question": "What does the claimed morphed tweet say?",
+                "answers": [
+                    {
+                        "answer": "“As PM, he returned from work at 3 am to find his bodyguard exhausted and asleep on his bed. He covered him with a blanket and went to his room to sleep with his wife,"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "When are the earliest references to building a standard gauge railway in Kenya?",
+                "answers": [
+                    {
+                        "answer": "October 28 2009– Kenya and Uganda have agreed to expedite the development of an efficient railway system that will link the port of Mombasa with Kampala, Southern Sudan, Rwanda, Burundi and the Democratic Republic of Congo (DRC).\n \nSpeaking on Tuesday during bilateral talks at State House Nairobi, President Mwai Kibaki and Uganda’s President Yoweri Museveni directed that a Joint Ministerial Commission (JMC) be established to work on ways of developing a new standard-gauge railway line that will reduce transport costs."
+                    }
+                ]
+            },
+            {
+                "question": "Was the planning of gauge railway was being done by the Kenyan government for 30 years ?",
+                "answers": [
+                    {
+                        "answer": ".No, the earliest reference to this project emerged during a summit of the Eastern African Community in 2004. In 2009, a regional Northern Corridor Initiative between Kenya, Uganda, and Rwanda was formed to promote a sustainable freight transport system, which would later expand to other countries in the Great Lakes Region. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Where can the Thomas Jefferson Foundation be found?",
+                "answers": [
+                    {
+                        "answer": "Monticello"
+                    }
+                ]
+            },
+            {
+                "question": "Is the quote “When the people fear the government, there is tyranny. When the government fears the people, there is liberty\" contained in the papers or speeches of Thomas Jefferson?",
+                "answers": [
+                    {
+                        "answer": "We have not found any evidence that Thomas Jefferson said or wrote, \"When government fears the people, there is liberty. When the people fear the government, there is tyranny,\" nor any evidence that he wrote its listed variations."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What causes sudden death syndrome?",
+                "answers": [
+                    {
+                        "answer": "Sudden death syndrome (SDS) is a loosely defined umbrella term for a series of cardiac syndromes that cause sudden cardiac arrest and possibly death."
+                    },
+                    {
+                        "answer": "Sudden death syndrome (SDS) is a loosely defined umbrella term for a series of cardiac syndromes that cause sudden cardiac arrest and possibly death.\n\nSudden death syndrome, on the other hand, is a \"series of cardiac syndromes that cause sudden cardiac arrest and possibly death,\" according to Healthline. Some syndromes are caused by structural problems in the heart, while others are a result of electrical irregularities.\n\n"
+                    }
+                ]
+            },
+            {
+                "question": "Does coronavirus affect the heart?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "According to CDC, Coronavirus shares symptoms with MERS virus ranging from asymptomatic infection to acute upper respiratory illness, and rapidly progressive pneumonitis, respiratory failure, septic shock and multi-organ failure resulting in death."
+                    }
+                ]
+            },
+            {
+                "question": "What do the majority of covid sufferers die from?",
+                "answers": [
+                    {
+                        "answer": "A Jan. 30 study of 99 coronavirus cases found that the virus \"can result in severe and even fatal respiratory diseases such as acute respiratory distress syndrome.\" Three-quarters of the patients in the study showed signs of double pneumonia, and the characteristics of those who died were consistent with a warning model that predicts who’s most likely to die from the disease.\n\nSome patients did die after experiencing heart problems, including cardiac arrest, but the study did not establish a link between the virus and sudden death syndrome."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Is India the first country to levy tax on school textbooks?",
+                "answers": [
+                    {
+                        "answer": "Balwant Jain, Tax and Investment Expert and Chief Editor of Apnapaisoa.com said, “Books are excluded from the GST filed. As for input tax, there is no such thing on which we do not have to pay tax,”"
+                    }
+                ]
+            },
+            {
+                "question": "Is there a tax levy on school textbooks in India?",
+                "answers": [
+                    {
+                        "answer": "Books are not taxable under GST"
+                    }
+                ]
+            },
+            {
+                "question": "What is GST?",
+                "answers": [
+                    {
+                        "answer": "The goods and services tax (GST) is a value-added tax (VAT) levied on most goods and services sold for domestic consumption. The GST is paid by consumers, but it is remitted to the government by the businesses selling the goods and services. "
+                    }
+                ]
+            },
+            {
+                "question": "What is the GST on printed material like books?",
+                "answers": [
+                    {
+                        "answer": "NIL"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Did Trump take any actions to show support for the people of Hong Kong?",
+                "answers": [
+                    {
+                        "answer": "President Donald Trump  signed legislation passed by Congress supporting Hong Kong protesters"
+                    },
+                    {
+                        "answer": "President Trump signs two bills backing Hong Kong protesters, the White House says in a statement.\nThe president says he \"signed these bills out of respect for President Xi, China, and the people of Hong Kong.\"\nHe also says he hopes \"Leaders and Representatives of China and Hong Kong will be able to amicably settle their differences.\""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What is sickle cell disease?",
+                "answers": [
+                    {
+                        "answer": "Sickle cell disorders are a group of illnesses which affect your red blood cells. Sickle cell is a genetic condition, which means it is passed on from your parents and you are born with it; you cannot catch it from other people.\n\nSickle cell disorders causes your normally round and flexible blood cells to become stiff and sickle shaped, stopping the blood cells, and the oxygen they carry, from being able to move freely around the body and causing pain. This can cause  episodes of severe pain. These painful episodes are referred to as sickle cell crisis. They are treated with strong painkillers such as morphine to control the pain."
+                    }
+                ]
+            },
+            {
+                "question": "What countries accounted for the 57% of the annual number of newborns with sickle cell anaemia in 2010?",
+                "answers": [
+                    {
+                        "answer": "Nigeria, the Democratic Republic of Congo (DRC), and India accounted for 57% of newborns with SCA in 2010"
+                    }
+                ]
+            },
+            {
+                "question": "How much does Nigeria bear of the global sickle cell burden?",
+                "answers": [
+                    {
+                        "answer": "25% to 40%"
+                    },
+                    {
+                        "answer": "With a sickle hemoglobin (HbS) carrier prevalence of 25% to 40%, Nigeria bears the greatest burden of sickle cell disorder worldwide."
+                    }
+                ]
+            },
+            {
+                "question": "What percentage of children are born with sickle cell in Nigeria?",
+                "answers": [
+                    {
+                        "answer": "In 2010, we estimated that three countries (Nigeria, India, and the Democratic Republic of the Congo [DRC]) represented 57% (175,200 [CI: 144,200 (60%)–214,000 (54%)]) of the annual number of newborns with SCA globally (305,800 [CI: 238,400–398,800]). By 2050, these countries are projected to represent 55% . But while the relative contribution of Nigeria is projected to increase from 30% to 35%"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Did Russia interfere in the 2016 US elections?",
+                "answers": [
+                    {
+                        "answer": "U.S. prosecutors found a Russian effort in 2016 to use social media to boost Sanders’s campaign against Hillary Clinton, part of a broader effort to hurt Clinton, sow dissension in the American electorate and ultimately help elect Donald Trump."
+                    }
+                ]
+            },
+            {
+                "question": "Has US Senator Bernie Sanders been advised of Russian involvement in his presidential campaign?",
+                "answers": [
+                    {
+                        "answer": "U.S. officials have told Sen. Bernie Sanders that Russia is attempting to help his presidential campaign as part of an effort to interfere with the Democratic contest, according to people familiar with the matter."
+                    }
+                ]
+            },
+            {
+                "question": "What was Sen. Sanders reaction to Russia's interference?",
+                "answers": [
+                    {
+                        "answer": "Sanders said in a statement. “My message to Putin is clear: Stay out of American elections..."
+                    }
+                ]
+            },
+            {
+                "question": "Have verified Sanders' supporters shown aggressive online behavior?",
+                "answers": [
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            },
+            {
+                "question": "Is there evidence that Russia was behind Sanders's supporters hostility?",
+                "answers": [
+                    {
+                        "answer": "The indictment — part of Mueller's ongoing probe into Moscow's election meddling — charged 13 Russian nationals and three entities in the scheme to interfere in US elections."
+                    }
+                ]
+            },
+            {
+                "question": "What type of interference was Russia suspected of having in the Sanders' campaign?",
+                "answers": [
+                    {
+                        "answer": " The accounts were primarily used to disparage Clinton while supporting Sen. Bernie Sanders, Clinton's opponent in Democratic primary, and Trump. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What was Kenya's excise duty in 2003/04?",
+                "answers": [
+                    {
+                        "answer": "40.09 Ksh billion\n3.5% of GDP"
+                    }
+                ]
+            },
+            {
+                "question": "What was Kenya's excise duty in 2017/18?",
+                "answers": [
+                    {
+                        "answer": "117,481 Ksh billion\n1.34% of GDP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "According to the statement by Government of India Ministry of Women and Child Development, Lok Sabha, how many women were enrolled by the scheme in 2018.",
+                "answers": [
+                    {
+                        "answer": "As on 31.10.2018:\n\nNo. of Beneficiaries enrolled: 56,29,662\n\nNo. of beneficiaries paid: 46,54,956\n\n\n\nTotal maternity benefits paid"
+                    }
+                ]
+            },
+            {
+                "question": "According to the statement by Government of India Ministry of Women and Child Development, Lok Sabha, how many women were paid maternity benefits by the scheme in 2018.",
+                "answers": [
+                    {
+                        "answer": "As on 31.10.2018:\n\nNo. of beneficiaries paid: 46,54,956"
+                    }
+                ]
+            },
+            {
+                "question": "What is the Pradhan Mantri Matru Vandana Yojana (PMMVY)?",
+                "answers": [
+                    {
+                        "answer": "Pradhan Mantri Matru Vandana Yojana (PMMVY) Scheme enables beneficiaries to receive the scheme benefits through Direct Benefit Transfer (DBT) in furtherance of the objectives of encouraging improved health seeking behavior among Pregnant Women and Lactating Mothers (PW&LM)."
+                    }
+                ]
+            },
+            {
+                "question": "How many beneficiaries are covered annually by the PMMVY programme?",
+                "answers": [
+                    {
+                        "answer": "About 51.70 lakh beneficiaries are covered annually under PMMVY. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Are babies born alive after an abortion in NZ entitled to  medical support?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "Once alive and living outside the mother's womb, the neonate is a legal person and has the same rights as any other person, and there is a requirement to provide health care in the same way as for any other neonate."
+                    }
+                ]
+            },
+            {
+                "question": "Does NZ  Abortion Legislation Act (2020) makes it a legal requirement that babies born alive after an abortion are given medical support ?",
+                "answers": [
+                    {
+                        "answer": "False , as per the New Zealand's Abortion Legislation Act (2020),  proposed amendment was voted down by 80 to 37 votes, so will not be part of the Bill.  If it was passed, then The amendment would have required that if a baby was born alive following a failed abortion, a qualified health practitioner or any other health practitioner present at the time the child is born, would have a duty to provide the child with appropriate medical care and treatment."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "When was the photograph taken of Mukesh Ambani on the Facebook post claiming he had been diagnosed with pancreatic cancer and had undergone surgery? ",
+                "answers": [
+                    {
+                        "answer": "The photograph was taken on September 5, 2020."
+                    }
+                ]
+            },
+            {
+                "question": "When was a video filmed of  Mukesh Ambani at the virtual launch of NK Singh's book Portrait of Power?",
+                "answers": [
+                    {
+                        "answer": "The video was filmed on October 19, 2020."
+                    }
+                ]
+            },
+            {
+                "question": "What date was the  Facebook post which confirmed Mukesh Ambani had lost 30 kgs, been diagnosed with pancreatic cancer and had had liver transplant surgery?",
+                "answers": [
+                    {
+                        "answer": "The Facebook post was dated November 2, 2020."
+                    }
+                ]
+            },
+            {
+                "question": "Where was Mukesh's photo of him supposedly recieving surgery actually taken?",
+                "answers": [
+                    {
+                        "answer": "It was taken by Manushree Vijayvergiya who shared her experience of meeting Mukesh and Isha Ambani in a cafe in Liechtenstein. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Did biodiesel plant in Crawfordsville, Iowa, closed,  due to the waivers that Trump secretly gave to the oil companies ?",
+                "answers": [
+                    {
+                        "answer": "Yes, Small refinery were given biofuel waivers during Trump adminstration infuriating ethanol and corn producers for bailing out the oil industry when U.S. farmers are suffering because of tariffs and low prices."
+                    }
+                ]
+            },
+            {
+                "question": "Did Barack Obama wanted to provide nonprofit heatlhcare option ?",
+                "answers": [
+                    {
+                        "answer": "Yes, even though it was not a major priority, over which Obama replied \"I didn’t campaign on a public option.\""
+                    }
+                ]
+            },
+            {
+                "question": "Did Trump get $413 million from his dad in the course of his career ?",
+                "answers": [
+                    {
+                        "answer": "Senator Amy Klobuchar did say that Trump got $413 million from his dad, based on  that  New York Times investigation. "
+                    }
+                ]
+            },
+            {
+                "question": "Are there 64 public health mental health beds in the state of Iowa ? ",
+                "answers": [
+                    {
+                        "answer": "Yes. \nADULT = 64 BEDS\nCHILDREN / ADOLESCENT = 32 BEDS"
+                    }
+                ]
+            },
+            {
+                "question": "Is Affordable Care Act is now 10 points more popular than the president of the United States ?",
+                "answers": [
+                    {
+                        "answer": "Yes, though the data changes from month to month, but on average Affordable Care Act is 10% more higher than \n Trump’s popularity."
+                    }
+                ]
+            },
+            {
+                "question": "Has Trump brought the  pharmaceutical costs down?",
+                "answers": [
+                    {
+                        "answer": "No, even though he said that he will bring pharmaceutical costs down.  December 2019 numbers show drug prices rising by about 3.9%."
+                    }
+                ]
+            },
+            {
+                "question": "Can the president  bring in less expensive drugs from other countries, instead of getting appoval from  Congress ?",
+                "answers": [
+                    {
+                        "answer": "The option to bring in less expensive drugs from other countries is with respect to Canada only, which will allow Americans to safely import more affordable prescription drugs from Canada.  "
+                    }
+                ]
+            },
+            {
+                "question": "Did Senator Amy Klobuchar win Michele Bachmann’s district every time? ",
+                "answers": [
+                    {
+                        "answer": "Yes, Senator Amy Klobuchar    won Michele Bachmann dictict in her three U.S. Senate campaigns"
+                    }
+                ]
+            },
+            {
+                "question": "Has the cost of US homeowners insurance increased?",
+                "answers": [
+                    {
+                        "answer": "The average homeowners insurance premium rose by 3.1 percent in 2018, following a 1.6 percent increase in 2017, according to a January 2021 study by the National Association of Insurance Commissioners, the latest data available. "
+                    },
+                    {
+                        "answer": "Average Premiums For Homeowners And Renters Insurance, 2009-2018\n\nYear\tHomeowners (1)\tPercent change\tRenters (2)\tPercent change\n2009\t$880\t6.0%\t$184\t1.1%\n2010\t909\t3.3\t185\t0.5\n2011\t979\t7.7\t187\t1.1\n2012\t1,034\t5.6\t187\t(3)\n2013\t1,096\t6.0\t188\t0.5\n2014\t1,132\t3.3\t190\t1.1\n2015\t1,173\t3.6\t188\t-1.1\n2016\t1,192\t1.6\t185\t-1.6\n2017\t1,211\t1.6\t180\t-2.7\n2018\t1,249\t3.1\t179\t-0.6"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Are there signs of voter fraud in US elections?",
+                "answers": [
+                    {
+                        "answer": "Social media users, including one of US President Donald Trump’s sons, are citing isolated cases of mail-in ballots being sent in error as evidence of the potential for widespread voter fraud. This is misleading; election officials say steps including signature verification prevent imposters from returning ballots in place of another voter."
+                    }
+                ]
+            },
+            {
+                "question": "How were November 3, 2020 presidential elections in the state of New Jersey conducted?",
+                "answers": [
+                    {
+                        "answer": "What you need to know about N.J.‘s mostly mail-in ballot elections, with all the controversy.\n\nThis fall’s elections in New Jersey — including the race for the White House — won’t be normal in these not-so-normal times.\n\nGov. Phil Murphy on Friday signed an executive order for the Nov. 3 elections to be conducted in a hybrid but mostly mail-in fashion in the Garden State amid the coronavirus pandemic. All of the state’s active registered voters will automatically receive ballots in the mail, though there will still be some in-person polling locations across the state where people can cast a paper provisional ballot.\n\nMurphy said you can put your ballot in the mail, drop it in one of several secure boxes to be set up across the state, bring it to polling location on Election Day, or vote provisionally in person.\n\nThis comes despite extreme opposition to widespread mail-in voting from President Donald Trump, as well as from other Republicans and some county officials in New Jersey, who warn about the potential for voter fraud. "
+                    }
+                ]
+            },
+            {
+                "question": "Have any issues/concerns been addressed in New Jersey about mail-in voter fraud?",
+                "answers": [
+                    {
+                        "answer": "How common is voter fraud? - Voter fraud in the U.S. is historically rare, according to multiple studies and statistics. Nearly 1 in 4 voters cast ballots in the 2016 presidential election via mail.\n\nStill, New Jersey has had issues with mail-in voting this year. - Some voters received the wrong ballots in the mail and some results took weeks to become official. Also, about 1 in 10 people who mailed in ballots in May’s special elections had their votes rejected.\n\nAnd there were allegations of voter fraud in the Paterson City Council race in May. State Attorney General Gurbir Grewal filed voting fraud charges against a city councilman and a councilman-elect.\n\nGov. Phil Murphy said Friday that this is actually “positive” because “law enforcement is all over it.\" - “If you screw around, you will be caught and be held accountable,” he said."
+                    }
+                ]
+            },
+            {
+                "question": "Does sending mail-in ballots to someone's deceased parents lead to voter fraud?",
+                "answers": [
+                    {
+                        "answer": "Ballots for dead relatives examples published include - Twitter user Carolyn Quinn, who posted a picture on October 6 of mail-in ballots from New Jersey that were meant for her deceased parents with the caption: “VOTER FRAUD ALERT!”. - 'Quinn' told the FRANCE 24 Observers that her parents both passed away around one year ago, and provided court documents attesting to the fact.\n\nIn 2020, the coronavirus has spurred 23 states and Washington D.C. to expand voting by mail. A total of 24 states now allow mail-in voting for any reason including fear of the coronavirus, compared with 16 in 2016. The number of states mailing ballots to all registered voters has also doubled, going from five in 2016 to 10 this year. The New York Times has reported that ballot request data indicates that more Democrats than Republicans are likely to vote by mail in 2020.\n\n“It would be very difficult to orchestrate some kind of national election fraud”\nTo understand whether mistaken mail-in ballots could lead to significant election fraud, the FRANCE 24 Observers team spoke to professors Lonna Atkeson of the University of New Mexico and Trey Hood of the University of Georgia, both specialists in election administration. \n\nDr. Hood said that erroneously sent ballots are only a threat if someone tries to use them to vote: \n\n“These administrative mistakes occur. If you’re a state that’s suddenly ramping up your mail-in balloting because of the coronavirus, there’s likely to be more mistakes made. But unless someone takes the ballot of a deceased person and votes on their behalf, it’s not fraud. Voter fraud from what we can tell is fairly rare and episodic.”"
+                    }
+                ]
+            },
+            {
+                "question": "What is the status of voter fraud in the US?",
+                "answers": [
+                    {
+                        "answer": "A comprehensive review by the Brennan Center of Justice found that voter fraud in the United States is rare and does not approach rates that would be required to “rig” an election. An in-depth 2014 study published by the Washington Post found 31 credible instances of voter impersonation fraud from 2000 to 2014, out of a total of one billion ballots cast.\n\nThere has been at least one instance of targeted mail-in ballot fraud this year, Dr. Atkeson said: -\n\n“Mail-in voting is not filled with fraud, but the fraud that we find is targeted in places where election results are going to be close. An example of this is a municipal election earlier this year in Paterson, New Jersey that was overturned after charges of mail-in voter fraud caused nearly 20 percent of the ballots to be rejected."
+                    }
+                ]
+            },
+            {
+                "question": "What voter fraud security measures are in place?",
+                "answers": [
+                    {
+                        "answer": "“Security checks should prevent the most egregious acts of fraud”\nMore than half of states check the signatures on incoming mail-in ballots against signatures they have on file for registered voters, but Dr. Atkeson says that the rigour of these checks varies. \n\n    “Every state has their own more or less stringent process for qualifying ballots. In states with universal vote-by-mail like Colorado and Utah, we certainly see instances where submitted ballots are signed by someone other than the voter   and those are caught. There are security checks that should prevent the most egregious acts of fraud. However, signature matching is not an exact science, both in terms of qualifying votes that should be counted and votes that shouldn’t be counted. But I do believe that processes in place are strong attempts to assure the security of the system.”\n\nDr. Hood agrees: “It really depends on the state - the United States basically has 50 different election systems with different safeguards. North Carolina has what they call witness affirmation   someone has to sign witnessing that the person sending the ballot voted the ballot. Another safeguard is if the state -- like Georgia -- requires voters to request absentee ballots. This way, the voter is initiating the process.”"
+                    }
+                ]
+            },
+            {
+                "question": "What safeguards methods,  such as signature verification fraud security  are used in the state of New Jersey to prevent imposters from returning ballots in place of another voter?",
+                "answers": [
+                    {
+                        "answer": "The county board of elections shall, promptly after receiving each mail-in ballot, remove the inner envelope containing the ballot from the outer envelope and shall compare the signature and the information contained on the flap of the inner envelope with the signature and information contained in the respective requests for mail-in ballots.  In addition, as to mail-in ballots issued less than seven days prior to an election, the county board of elections shall also check to establish that the mail-in voter did not vote in person.  The county board shall reject such a ballot if it is not satisfied, pursuant to a comparison with the Statewide voter registration system, that the voter is legally entitled to vote and that the ballot conforms with the requirements of this act.\n\n     In the case of a mail-in ballot to be voted at a primary election for the general election, the ballot shall be rejected if the mail-in voter has indicated in the certificate the voter's intention to vote in a primary election of any political party in which the voter is not entitled to vote according to the Statewide voter registration system, and if it shall appear from the record that the voter is not entitled to vote in a primary election of the political party which has been so indicated.\n\nAny mail-in ballot which is received by a county board of elections shall be rejected if both the inner and outer envelopes are unsealed or if either envelope has a seal that has been tampered with.  Mail-in ballots shall not be rejected due to missing or insufficient glue for either envelope.\n\nDisputes about the qualifications of a mail-in voter to vote or about whether or not or how any mail-in ballot shall be counted in such election shall be referred to the Superior Court for determination...\n"
+                    }
+                ]
+            },
+            {
+                "question": "What studies have been made about the incidence of voter fraud in the US, and what were their findings?",
+                "answers": [
+                    {
+                        "answer": "The Brennan Center reviews studies related the incidence of voter fraud. - The facts makes clear that fraud by voters at the polls is vanishingly rare, and does not happen on a scale even close to that necessary to “rig” an election.\n\nStudies Agree: Impersonation Fraud by Voters Very Rarely Happens\nThe Brennan Center’s seminal report on this issue, The Truth About Voter Fraud, found that most reported incidents of voter fraud are actually traceable to other sources, such as clerical errors or bad data matching practices. Incident rates between 0.0003 percent and 0.0025 percent. \n\nA study published by a Columbia University political scientist tracked incidence rates for voter fraud for two years, and found that the rare fraud reported could be traced to “false claims by the loser of a close race, mischief and administrative or voter error.”\n\nA 2017 analysis published in The Washington Post concluded that there is no evidence to support Trump’s claim that Massachusetts residents were bused into New Hampshire to vote.\n\nA comprehensive 2014 study published in The Washington Post found 31 credible instances of impersonation fraud from 2000 to 2014, out of more than 1 billion ballots cast.\n"
+                    }
+                ]
+            },
+            {
+                "question": "What is potential voter fraud caused by in the US, and are  causes addressed by safeguard security measures?",
+                "answers": [
+                    {
+                        "answer": "Opportunity for Fraud\n\nThe problem (and opportunity for fraud) this could cause is illustrated by something the president talked about at one of his news conferences; namely, the settlement that Judicial Watch obtained from Los Angeles and the state of California over their failure to maintain the accuracy of their voter registration rolls.  \n\nThe state and LA agreed to remove from the rolls 1.5 million individuals who remained registered even though they no longer were eligible to vote. Imagine what would have happened if 1.5 million ballots were simply mailed out to all of those individuals to addresses where they no longer live.\n\nBallots are a valuable commodity. How many would have been voted anyway by fraudsters or vote harvesters collecting absentee ballots in neighborhoods throughout Los Angeles?  \n\nJust look at what happened in North Carolina in 2018 in the 9th Congressional District race, in which the result was overturned by the state election board because of illegal vote harvesting that included altering and forging absentee ballots.\n\nAll-mail jurisdictions such as Oregon like to brag about the supposed “security” of their systems, which consists of almost nothing other than a rapid, superficial signature comparison. \n\nAs Melody Rose, an assistant professor of political science at Portland State University, told the Los Angeles Times: “I don’t have much faith in that process. I can forge my husband’s signature perfectly.”\n\nRose conducted a survey of one county, Washington County, outside Portland. Five percent of registered voters admitted that other people marked their ballots, and 2.4% said someone else signed their ballots."
+                    },
+                    {
+                        "answer": "States have multiple tools to address valid security concerns and protect election integrity when it comes to mail ballots. And recent technologies and strategies have significantly enhanced the security of mail balloting.\n\nIdentity verification: The principal method used to detect and prevent fraud is the mail ballot envelope itself, where each voter must include personal identifying information (such as address, birthday, and driver’s license number or last four digits of a Social Security number). In most states, that information includes a signature to match against the voter rolls. \n\nBar codes: Most election jurisdictions now use some form of bar code on their ballot envelopes. These bar codes allow election officials to keep track of ballot processing and help voters know whether their ballot has been received. Bar codes also allow states to identify and eliminate duplicate ballots.\n\nBallot tracking through the U.S. Postal Service: In many jurisdictions, including California, Colorado and Florida, ballot envelopes are equipped with intelligent mail bar codes to track an envelope from drop-off to delivery and processing. \n\nSecure drop-off locations and drop boxes: Multiple ballot return options limit the opportunity for ballot tampering by fostering voter independence in returning a ballot.\n\nHarsh penalties: Anyone who commits voter fraud using a mail ballot risks severe criminal and civil penalties: up to five years in prison and $10,000 in fines for each act of fraud under federal law, in addition to any state penalties.\n\nPostelection audits: In 2018, a review of returned absentee ballot records helped identify anomalies in the election results of Bladen County, North Carolina, enabling election officials to uncover election interference by a political operative who stole and tampered with mail ballots.\n\nPolling sites as a fail-safe: if there are concerns that an eligible voter’s mail ballots could be lost or uncounted, in-person polling sites provided."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Who owns Qwikloan?",
+                "answers": [
+                    {
+                        "answer": "Qwikloan is owned by MTN"
+                    }
+                ]
+            },
+            {
+                "question": "Have there been news reports about Qwikloan losing all data?",
+                "answers": [
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            },
+            {
+                "question": "Where was this claim first published?",
+                "answers": [
+                    {
+                        "answer": "It was published by a satirical website, News7."
+                    }
+                ]
+            },
+            {
+                "question": "What did MTN say about the claim?",
+                "answers": [
+                    {
+                        "answer": "“MTN wishes to inform its loyal customers to debunk rumours about loss of data on its QWIKLOAN services,\" the disclaimer stated.\n\n“Data on Qwikloan are stored securely and under no circumstance will an undersea fibre cut affect data storage for the service.”"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What is the suffix for websites affiliated with the Indian government?",
+                "answers": [
+                    {
+                        "answer": ".gov.in"
+                    }
+                ]
+            },
+            {
+                "question": "What is the link mentioned in the article to provide the COVID-19 relief money?",
+                "answers": [
+                    {
+                        "answer": "https://funds4-covid19.com/"
+                    }
+                ]
+            },
+            {
+                "question": "Is there any mention on the Indian government website for government relief funds payments as part of the plan to overcome COVID-19?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "https://www.india.gov.in/spotlight/collaborating-overcome-covid-19"
+                    }
+                ]
+            },
+            {
+                "question": "What does the link tell users to do to get relief money?",
+                "answers": [
+                    {
+                        "answer": "Get Free Rs.7,500 Instantly to your bank account. Please Complete The Survey To Avail Free Lockdown relief funds."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "How many social grants are given to South African each month?",
+                "answers": [
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            },
+            {
+                "question": "How many social grants were administered in SA in 2018?",
+                "answers": [
+                    {
+                        "answer": "2017/18 17,509,995"
+                    }
+                ]
+            },
+            {
+                "question": "How many social grants are provided to South Africans every month?",
+                "answers": [
+                    {
+                        "answer": "Close to 17 million low-income South Africans\nhave access to means tested social grants."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What was the source of the Daily Mail article?",
+                "answers": [
+                    {
+                        "answer": "A report published be Oxford University Press."
+                    }
+                ]
+            },
+            {
+                "question": "Did this report suggest that research could be done to discover if mouthwash could be effective against COVID-19?",
+                "answers": [
+                    {
+                        "answer": "We highlight that already published research on other enveloped viruses, including coronaviruses, directly supports the idea that oral rinsing should be considered as a potential way to reduce transmission of SARS-CoV-2. Research to test this could include evaluating existing or specifically tailored new formulations in well-designed viral inactivation assays, then in clinical trials. Population-based interventions could be undertaken with available mouthwashes, with active monitoring of outcome to determine efficacy. This is an under-researched area of major clinical need."
+                    }
+                ]
+            },
+            {
+                "question": "Can gargling mouthwash protect you from infection with the new coronavirus according to WHO?\n",
+                "answers": [
+                    {
+                        "answer": "There is no evidence that using mouthwash will protect you from infection with the new coronavirus (2019-nCoV)."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Were people advised to not post on social media for blackout Tuesday?",
+                "answers": [
+                    {
+                        "answer": "Note that the use of the hashtags #BlackLivesMatter or #BLM is not recommended in this case as it is reportedly overwhelming important images in the main Black Lives Matter feed and making it difficult to find other Black Lives Matter content."
+                    }
+                ]
+            },
+            {
+                "question": "Did Instagram merge #BlackOutTuesday and #BlackLivesMatter posts? ",
+                "answers": [
+                    {
+                        "answer": "No answer could be found."
+                    }
+                ]
+            },
+            {
+                "question": "Does posting for Blackouttuesday make other protests on Instagram for BLM harder to see?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "“If you edit your post to remove a hashtag, your post will no longer be shown on that hashtag page,” she said. “In some cases, it may take up to 10 minutes for the post to be removed once you edit it. If someone uses #blacklivesmatter and #blackouttuesday in their caption, the post will appear on both hashtag pages – we are not merging the pages.”\n\n"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Has the Mayor of Ithaca, New York proposed replacing the Police Dept with community Solution Workers?",
+                "answers": [
+                    {
+                        "answer": "“IPD currently spends one third of its time responding to calls for service that essentially never lead to arrests,” Myrick writes in the report’s introduction. “Those calls, as well as a majority of patrol activity, can and should be handled by unarmed Community Solution Workers well trained in de-escalation and service delivery. This will allow our new Public Safety Workers to focus on preventing, interrupting and solving serious crime.”"
+                    }
+                ]
+            },
+            {
+                "question": "Does the Mayor of Ithaca, New York propose abolishing the Police Dept ?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "If the proposal is approved, calls for service will be evaluated to determine whether an armed or unarmed respondent is necessary, or another public agency altogether would be best to respond. Mental health calls would be outsourced to a standalone unit of social workers based on the CAHOOTS program pioneered in Eugene, Oregon. The goal, ultimately, is to have far fewer encounters between citizens and armed government agents."
+                    }
+                ]
+            },
+            {
+                "question": "Is the mayor planning on replacing the department?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "He talks about re-allocating the resources to make the force more efficient"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Did the the top 1%. get 83% of the benefits in the Republican tax bill as claimed by Sander ?",
+                "answers": [
+                    {
+                        "answer": "There’s no question that the top 5 percent do the best by far under the 2017 Tax Cuts and Jobs Act. But in the early years, about half of the tax breaks go to the bottom 90 percent of taxpayers. It’s only later that the picture skews as hard toward the wealthiest, as Sanders said. When Democrats and their supporters have made this claim before, we never rated it better than Half True."
+                    }
+                ]
+            },
+            {
+                "question": "Does the United States has three families owning more wealth than the bottom half of the American society ?",
+                "answers": [
+                    {
+                        "answer": "Based on a 2017 report, the three wealthiest Americans — Bill Gates, Jeff Bezos and Warren Buffett — together were worth $248.5 billion. The wealth of the bottom 160 million people (the bottom half) was $245 billion. The specific numbers have changed, but we’ve seen nothing to suggest the comparison is any less valid today."
+                    }
+                ]
+            },
+            {
+                "question": "Is the unemployment  in Germany now 3.1 percent. In Japan , 2.8 percent and UK is hair higher than US ?",
+                "answers": [
+                    {
+                        "answer": "According to Eurostat, the European Commission’s data warehouse, the unemployment rate in Germany is 3.1 percent, in Japan it’s 2.3 percent and the United Kingdom has a 3.8 percent rate.The latest unemployment figure from the Bureau of Labor Statistics for the United States is 3.8 percent.This is accurate."
+                    }
+                ]
+            },
+            {
+                "question": "Did 7 million more people lack health insurance that used to have it after Trump took office ?",
+                "answers": [
+                    {
+                        "answer": "Sanders’ number has its roots in a January 2019 Gallup estimate. The share of people telling pollsters that they lacked insurance was up 2.8 percentage points from its low in 2016. Gallup ran the numbers and converted that rise into 7 million people who lost insurance.The gold-standard government survey found a rise of about 1.3 million people"
+                    }
+                ]
+            },
+            {
+                "question": "Amazon, owned by the wealthiest person in this country, paid zero in federal taxes.",
+                "answers": [
+                    {
+                        "answer": "Yes, Amazon reported to the SEC that it paid no federal income taxes in 2018. And when Sanders has specified that Amazon paid no income taxes before, we’ve rated that True."
+                    }
+                ]
+            },
+            {
+                "question": "Did Trump’s last budget call for a \"$845 billion\" cut in Medicare over 10 years in 2020 ?",
+                "answers": [
+                    {
+                        "answer": "Many Democrats have said that Trump’s FY 2020 budget aimed to cut Medicare by $845 billion, which we’ve rated Mostly False.The reality is that about $250 billion of that would still be spent on the same Medicare programs for hospitals, but it would come from the general federal budget, not the primary Medicare trust fund. So right off the bat, the reduction is closer to $600 billion."
+                    }
+                ]
+            },
+            {
+                "question": "Was Sander's party the first to succeed in the house and Senate with the Yemen resolution since the War Powers Act was passed 45 years ago ?",
+                "answers": [
+                    {
+                        "answer": "This is accurate.\nThe United States has provided indirect support to Saudi Arabia’s attacks in Yemen, attacks that included bombing in civilian areas. Both the Senate and the House passed resolutions calling for an end to any U.S. involvement. Trump vetoed it, with little chance that it would be overturned."
+                    }
+                ]
+            },
+            {
+                "question": "Did Amazon pay zero in federal taxes?",
+                "answers": [
+                    {
+                        "answer": "In 2018, Amazon\n paid $0 in U.S. federal income tax on more than $11 billion in profits before taxes. It also received a $129 million tax rebate from the federal government."
+                    }
+                ]
+            },
+            {
+                "question": "Who is the richest man in America?",
+                "answers": [
+                    {
+                        "answer": "Jeff Bezos"
+                    }
+                ]
+            },
+            {
+                "question": "Does Jeff Bezos own Amazon?",
+                "answers": [
+                    {
+                        "answer": "he (already) owns 16% of Amazon,"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "How many years has the show been renewed for?",
+                "answers": [
+                    {
+                        "answer": "at least 3 years"
+                    }
+                ]
+            },
+            {
+                "question": "What are the source URL/date of the claim?",
+                "answers": [
+                    {
+                        "answer": "Source URL: https://www.facebook.com/permalink.php?story_fbid=963840480718647&id=100012781119461\n\nDate: June 28, 2020"
+                    }
+                ]
+            },
+            {
+                "question": "Who was licenced to run new season episodes of 'The Ellen DeGeneres Show' in the United States, at the time of the claim?",
+                "answers": [
+                    {
+                        "answer": "Previously renewed through the 2019-20 season, the show already has been licensed by the NBC Owned Television Stations (10 stations) and Hearst Television (22 stations) through the 2021-2022 season."
+                    }
+                ]
+            },
+            {
+                "question": "Was the show airing close in the year of the claim and which season of the 'The Ellen DeGeneres Show' was aired closest to the time of the claim?",
+                "answers": [
+                    {
+                        "answer": "Season 17 - from 6th Jan to 10 Dec 2020."
+                    },
+                    {
+                        "answer": "Ellen Tweeted 13 March 2020 - Hey there. Me again. So, after some more thought, we have decided to suspend production completely until March 30th. We just want to take every precaution to ensure that we do our part to keep everyone healthy. I love you guys, and can’t wait to come back. I’m already bored."
+                    }
+                ]
+            },
+            {
+                "question": "Were their issues reported about the show at the time of the claim?",
+                "answers": [
+                    {
+                        "answer": "Ellen DeGeneres has been pretty consistent in grabbing headlines over the last few months. But sadly, it’s for all the wrong reasons. Be it the reports of cutting the salary of the crew to the divorce with wife Portia de Rossi, the celebrity host is the topic of discussions all across.\n\nNow, the latest about Ellen DeGeneres is that she is thinking of stepping down as a host of The Ellen DeGeneres Show. As the show has been named after Ellen, it seems highly possible that the show itself might take a backseat. It is being said that all the defaming controversies are the reasons behind such a decision of quitting the popular chat show. As per Gossip Cop, Ellen is seriously considering stepping down and her wife Portia de Rossi is strongly in favour of this decision. Although the news is really a big one, no concrete reports are out about the same. So, as of now, everything stands uncertain. \n\nMeanwhile, post the reports of $500 Million divorce with Portia de Rossi, recently Ellen DeGeneres was in the news due to death hoax. While the news shocked several admirers of Ellen, a lot of people tweeted using that hashtag to share memes and jokes on her.\nThe production team of Ellen DeGeneres’ show had clearly denied the shutting of The Ellen Show. However, rumours are still going on. But some people took this as an opportunity to tweet #RIPEllen referring to her show.\n\nWhen people realized Ellen DeGeneres is fine, they didn’t stop. In fact, many went on to share pics of other celebs to create more confusion and make it funny."
+                    }
+                ]
+            },
+            {
+                "question": "How did the show producers repond to the rumours of cancellation?",
+                "answers": [
+                    {
+                        "answer": "Rumors are swirling that Ellen DeGeneres might have her last dance.\n\nInsiders are whispering that the “Ellen” show could be canceled soon, amid reports of falling ratings and allegations of DeGeneres, 62, being “rude” to her staff, the Sun reports.\n\nHowever, when reached by The Post for comment about the claims, DeGeneres’ production company reps said, “Telepictures can confirm it’s untrue.”\n\nBut recent behind-the-scenes reports have painted a different picture.\n\nMost recently, DeGeneres courted controversy in April when crew members from her show spoke out about their treatment during the shutdown due to the coronavirus pandemic.\nsee also\nTV host Ellen DeGeneres ends each show by imploring viewers to be kind — but some sources say she’s forgotten how to be that way herself.\t\n\nAccording to Variety, they had little communication or transparency about the status of their pay or continued employment. Like other talk show hosts such as Stephen Colbert and Trevor Noah, DeGeneres has continued her show remotely — but with help from an outside company for tech as opposed to her crew members who spoke out.\n\nComedian Kevin T. Porter launched a Twitter thread that went viral on March 20, calling for anyone who encountered DeGeneres to respond with “insane” stories about “Ellen being mean.”\n\n“A new staff member was told, ‘Every day she picks someone different to really hate. It’s not your fault, just suck it up for the day and she’ll be mean to someone else the next day.’ They didn’t believe it, but it ended up being entirely true,” TV writer Ben Simeon wrote in one response."
+                    }
+                ]
+            },
+            {
+                "question": "What were the production company 'Telepictures' comments about the cancellation of The Ellen DeGeneres Show?",
+                "answers": [
+                    {
+                        "answer": "Producers for \"The Ellen DeGeneres Show\" have denied rumors that the long-running talk show is on the brink of being canceled.\n\nTelepictures Television, the production company behind Ellen DeGeneres' namesake show, has responded to a report that the show would be canceled due to mounting allegations of DeGeneres' \"rude\" behavior from current and former staffers in addition to an alleged decline in ratings.\n\n\"Telepictures can confirm it's untrue,\" representatives for the production company told - A representative for the company did not immediately respond to Fox News' request for comment.\n\nThe cancellation rumors surfaced after The Sun published a report claiming that ratings for Season 17 of DeGeneres' talk show recently fell 14 percent, citing TVNewsCheck statistics. The report also included several comments, some from comedians and one television writer, who claimed DeGeneres isn't pleasant to work with.\n\nWhile the production company confirmed that the show has no plans of leaving television, back in May, a former bodyguard for the famed television personality backed up the not-so-nice allegations mounting against DeGeneres."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Murlidhar Mohol fez uma dimulação de alerta?",
+                "answers": [
+                    {
+                        "answer": "The mock drill video is being shared out of context online. The clip has been captioned as, \"Corona patients have started appearing in public places on the streets of Pune. The situation is really serious. Take care of yourself and your family .... Stay safe.\"\n\nhttps://www.boomlive.in/fake-news/video-of-mock-drill-to-test-covid-19-preparedness-in-pune-shared-as-real-8628"
+                    }
+                ]
+            },
+            {
+                "question": "Where was the video shot?",
+                "answers": [
+                    {
+                        "answer": "Pun'es Deccan Corner"
+                    }
+                ]
+            },
+            {
+                "question": "Was the video showcasing a real event?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "The video shows a mock covid-19 testing trial, but it was shown as real"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Have Israel developed a saliva test for COVID-19?",
+                "answers": [
+                    {
+                        "answer": "Yes although still in testing phase. \n\n1-second Covid spit test shown 95% accurate so far\nNewsight’s spectral technology, currently being tried on patients at Sheba Medical Center, could revolutionize SARS-CoV-2 testing across the world."
+                    }
+                ]
+            },
+            {
+                "question": "Has Israel developed a super-quick saliva test for COVID-19?",
+                "answers": [
+                    {
+                        "answer": "Yes. The claim does not ask whether the test is licensed, reviewed, in production or accurate. It merely states that a quick test has been developed. It has and is under review. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "How did Trump reform criminal justice system?",
+                "answers": [
+                    {
+                        "answer": "The FIRST STEP Act is consequential because it includes provisions for meaningful sentencing reform, which would reduce the number and amount of people in prison and is part of the starting point of any serious legislation for criminal justice reform. "
+                    }
+                ]
+            },
+            {
+                "question": "Did Obama pass legislation reforming the justice system?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "President Obama signed a bill reducing the disparity in penalties for the use of crack and powder cocaine. \nThe enactment of the law sealed a hard-fought victory for civil rights activists who have argued for years that the differing punishments unfairly target African-Americans."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "What assets are taking into account when considering a countries debt?",
+                "answers": [
+                    {
+                        "answer": "Foreign Exchange Reserves"
+                    }
+                ]
+            },
+            {
+                "question": "How much were the current foreign reserves valued at?",
+                "answers": [
+                    {
+                        "answer": "US$35.8 billion"
+                    }
+                ]
+            },
+            {
+                "question": "Anything else count?",
+                "answers": [
+                    {
+                        "answer": "Foreign remittances "
+                    }
+                ]
+            },
+            {
+                "question": "How much is this valued at in the recent report?",
+                "answers": [
+                    {
+                        "answer": "Nigerians living abroad sent $3.1 billion home. In 2019 it was $19.2 billion. These amounts add up to trillions of naira. "
+                    }
+                ]
+            },
+            {
+                "question": "Has Nigerias revised budget been a result of world issues?",
+                "answers": [
+                    {
+                        "answer": "The revision of the budget came against the backdrop of the economic crisis unleashed by the double whammy of the onset of the COVID-19 pandemic, which disrupted economic activities, and the sharp decline in the price of crude oil occasioned by the impact of the pandemic and oil price war between two critical producing nations, Russia and Saudi Arabia."
+                    }
+                ]
+            },
+            {
+                "question": "Has Nigeria's revised budget been a result of world issues?",
+                "answers": [
+                    {
+                        "answer": "The revision of the budget came against the backdrop of the economic crisis unleashed by the double whammy of the onset of the COVID-19 pandemic, which disrupted economic activities, and the sharp decline in the price of crude oil occasioned by the impact of the pandemic and oil price war between two critical producing nations, Russia and Saudi Arabia."
+                    }
+                ]
+            },
+            {
+                "question": "What are foreign exchange reserves?",
+                "answers": [
+                    {
+                        "answer": "Foreign exchange reserves are assets held on reserve by a central bank in foreign currencies. These reserves are used to back liabilities and influence monetary policy. It includes any foreign money held by a central bank, such as the U.S. Federal Reserve Bank. "
+                    }
+                ]
+            },
+            {
+                "question": "Is there a desired amount for a country's 'foreign exchange reserves' before being considered 'broke'?",
+                "answers": [
+                    {
+                        "answer": "Economists have two popular indicative rules of thumb.  One of the most quoted in local debates is 3 month or 12 weeks rule: reserves should be able to cover 12 weeks or 3 months of projected imports.  It is important to know that there is no statistical justification for this ratio; it is just a figure that has become a focal point for economists.  It is also subject to criticism as it ignores financial flows and focuses solely on the flow of goods and services. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "questions": [
+            {
+                "question": "Is there a law that prevents the city of New York making an investigation if there is a federal investigation?",
+                "answers": [
+                    {
+                        "answer": "No",
+                        "bool_explanation": "De Blasio also said that it was a mistake for the city to wait for federal prosecutors to finish investigating Garner’s death before the police department began disciplinary proceedings. But there is no rule requiring the NYPD to do so."
+                    }
+                ]
+            },
+            {
+                "question": "Did other journalists point out that there was no legal requirement for the city of New York to not investigate if there was a federal request?",
+                "answers": [
+                    {
+                        "answer": "Yes",
+                        "bool_explanation": "Nolan Hicks of the New York Post tweeted: 'There was nothing that prevented the de Blasio administration legally from bringing the administrative charges against Daniel Pantaleo while waiting on the Justice Department. City Hall says they held off on the Justice Department's behest.'"
+                    }
+                ]
+            },
+            {
+                "question": "Did the federal prosecutors refuse to take the case of murder of Eric Garner because the Justice Department was pursuing their prosecution ?",
+                "answers": [
+                    {
+                        "answer": "The NYPD could have started those proceedings years ago. In fact, it did start that process well before the Justice Department closed its civil rights investigation this year with no charges. The NYPD’s delay had a material effect, because it meant more requirements for prosecutors seeking to prove Pantaleo’s culpability."
+                    }
+                ]
+            }
+        ]
+    }
+]
